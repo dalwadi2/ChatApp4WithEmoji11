@@ -1,0 +1,107 @@
+-injars 'C:\Users\Harsh\AndroidStudioProjects\ChatApp4\app\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
+-outjars 'C:\Users\Harsh\AndroidStudioProjects\ChatApp4\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'C:\dev\android-sdk\build-tools\23.0.2\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontwarn
+-printconfiguration 'C:\Users\Harsh\AndroidStudioProjects\ChatApp4\app\build\intermediates\multi-dex\debug\components.flags'
+
+
+-keep class com.creative.chatapp4.ApplicationSingleton {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class com.creative.chatapp4.ui.activities.SplashActivity {
+    <init>();
+}
+
+-keep class com.creative.chatapp4.ui.activities.NewDialogActivity {
+    <init>();
+}
+
+-keep class com.creative.chatapp4.ui.activities.DialogsActivity {
+    <init>();
+}
+
+-keep class com.creative.chatapp4.ui.activities.ChatActivity {
+    <init>();
+}
+
+-keep class com.creative.chatapp4.MainActivity {
+    <init>();
+}
+
+-keep class com.creative.chatapp4.pushnotifications.GcmBroadcastReceiver {
+    <init>();
+}
+
+-keep class com.creative.chatapp4.pushnotifications.GCMIntentService {
+    <init>();
+}
+
+-keep class vc908.stickerfactory.provider.StickersProvider {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementContentProvider {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementService {
+    <init>();
+}
+
+-keep class vc908.stickerfactory.ui.activity.MarketActivity {
+    <init>();
+}
+
+-keep class vc908.stickerfactory.ui.activity.MoreActivity {
+    <init>();
+}
+
+-keep class vc908.stickerfactory.receiver.AnalyticsTaskReceiver {
+    <init>();
+}
+
+-keep class vc908.stickerfactory.receiver.UpdatePacksTaskReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.analytics.AnalyticsReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.analytics.AnalyticsService {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.AdActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}

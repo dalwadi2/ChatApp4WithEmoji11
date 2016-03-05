@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\menu\\rooms.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\src\\main\\res\\menu\\rooms.xml"
+    }
+]
