@@ -243,4 +243,12 @@
     </style>
     <style name="Platform.ThemeOverlay.AppCompat.Dark"/>
     <style name="Platform.ThemeOverlay.AppCompat.Light"/>
+    <style name="SPB" parent="android:Widget.Material.ProgressBar.Horizontal">
+    </style>
+    <style name="Snackbar.Text.Action">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textColor">@color/sb__action_text_color</item>
+        <item name="android:background">@drawable/sb__btn_bg</item>
+    </style>
 </resources>

@@ -2,10 +2,10 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/creative/chatapp4/ApplicationSingleton.java" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/creative/chatapp4/core" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/creative/chatapp4/core" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/creative/chatapp4/pushnotifications" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/creative/chatapp4/ui" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/creative/chatapp4/utils" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/creative/chatapp4/ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/creative/chatapp4/utils" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/app_icon.png" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/app_logo.png" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_action_new.png" charset="windows-1252" />

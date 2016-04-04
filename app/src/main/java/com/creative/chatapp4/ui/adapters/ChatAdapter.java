@@ -20,6 +20,8 @@ import com.quickblox.users.model.QBUser;
 
 import java.util.List;
 
+import vc908.stickerfactory.StickersManager;
+
 public class ChatAdapter extends BaseAdapter {
 
     private final List<QBChatMessage> chatMessages;
@@ -60,7 +62,9 @@ public class ChatAdapter extends BaseAdapter {
 
     @Override
     public int getItemViewType(int position) {
-        return ChatItemType.Message.ordinal();
+        return StickersManager.isSticker(getItem(position).getBody())
+                ? ChatItemType.Sticker.ordinal()
+                : ChatItemType.Message.ordinal();
     }
 
     @Override
@@ -89,7 +93,11 @@ public class ChatAdapter extends BaseAdapter {
         QBUser currentUser = ChatService.getInstance().getCurrentUser();
         boolean isOutgoing = chatMessage.getSenderId() == null || chatMessage.getSenderId().equals(currentUser.getId());
         setAlignment(holder, isOutgoing);
-        if (holder.txtMessage != null) {
+        if (StickersManager.isSticker(chatMessage.getBody())) {
+            StickersManager.with(convertView.getContext())
+                    .loadSticker(chatMessage.getBody())
+                    .into(holder.stickerView);
+        } else if (holder.txtMessage != null) {
             holder.txtMessage.setText(chatMessage.getBody());
         }
         if (chatMessage.getSenderId() != null) {

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <bool name="sb__is_swipeable">true</bool>
     <style name="Base.TextAppearance.AppCompat.Inverse">
         <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
         <item name="android:textColorHint">?android:attr/textColorHintInverse</item>
@@ -158,4 +159,6 @@
         <item name="android:actionModePasteDrawable">?actionModePasteDrawable</item>
     </style>
     <style name="Platform.Widget.AppCompat.Spinner" parent="android:Widget.Holo.Spinner"/>
+    <style name="SPB" parent="android:Widget.Holo.ProgressBar.Horizontal">
+    </style>
 </resources>

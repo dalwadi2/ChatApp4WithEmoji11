@@ -22,13 +22,13 @@ public class TimeUtils {
 
     /**
      * converts time (in milliseconds) to human-readable format
-     *  "<w> days, <x> hours, <y> minutes and (z) seconds"
+     * "<w> days, <x> hours, <y> minutes and (z) seconds"
      */
     public static String millisToLongDHMS(long duration) {
-        if(duration > 0) {
+        if (duration > 0) {
             duration = new Date().getTime() - duration;
         }
-        if(duration < 0){
+        if (duration < 0) {
             duration = 0;
         }
 

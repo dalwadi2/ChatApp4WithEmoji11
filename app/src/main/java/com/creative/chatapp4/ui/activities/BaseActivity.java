@@ -3,7 +3,7 @@ package com.creative.chatapp4.ui.activities;
 import android.app.ProgressDialog;
 import android.os.Bundle;
 import android.os.Handler;
-import android.support.v4.app.FragmentActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.widget.Toast;
 
@@ -16,7 +16,7 @@ import com.quickblox.users.model.QBUser;
 /**
  * Created by igorkhomenko on 4/29/15.
  */
-public class BaseActivity extends FragmentActivity implements ApplicationSessionStateCallback {
+public class BaseActivity extends AppCompatActivity implements ApplicationSessionStateCallback {
     private static final String TAG = BaseActivity.class.getSimpleName();
 
     private static final String USER_LOGIN_KEY = "USER_LOGIN_KEY";

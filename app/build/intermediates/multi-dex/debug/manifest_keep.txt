@@ -13,12 +13,8 @@
 -keep class com.google.android.gms.measurement.AppMeasurementContentProvider { <init>(); }
 -keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
 -keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
--keep class vc908.stickerfactory.ui.activity.MarketActivity { <init>(); }
--keep class vc908.stickerfactory.ui.activity.MoreActivity { <init>(); }
--keep class vc908.stickerfactory.receiver.AnalyticsTaskReceiver { <init>(); }
--keep class vc908.stickerfactory.receiver.UpdatePacksTaskReceiver { <init>(); }
--keep class com.google.android.gms.analytics.AnalyticsReceiver { <init>(); }
--keep class com.google.android.gms.analytics.AnalyticsService { <init>(); }
+-keep class vc908.stickerfactory.ui.activity.CollectionsActivity { <init>(); }
+-keep class vc908.stickerfactory.ui.activity.ShopWebViewActivity { <init>(); }
 -keep class com.google.android.gms.ads.AdActivity { <init>(); }
 -keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity { <init>(); }
 -keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(); }

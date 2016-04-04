@@ -2,7 +2,9 @@ package com.creative.chatapp4.ui.activities;
 
 import android.app.Activity;
 import android.app.AlertDialog;
+import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 
 import com.creative.chatapp4.ApplicationSingleton;
@@ -22,12 +24,15 @@ public class SplashActivity extends Activity {
 
         // Login to REST API
         //
+        SharedPreferences sharedPreferences = getSharedPreferences("MyAppData", Context.MODE_PRIVATE);
+        if (sharedPreferences.getString("userId", "").equalsIgnoreCase("") && sharedPreferences.getString("password", "").equalsIgnoreCase("")) {
+            startActivity(new Intent(SplashActivity.this, LoginActivity.class));
+            finish();
+        }
         final QBUser user = new QBUser();
         user.setLogin(ApplicationSingleton.USER_LOGIN);
         user.setPassword(ApplicationSingleton.USER_PASSWORD);
 
-
-        
         ChatService.getInstance().login(user, new QBEntityCallback<Void>() {
 
             @Override

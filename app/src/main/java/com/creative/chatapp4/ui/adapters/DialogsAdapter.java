@@ -19,6 +19,7 @@ import com.quickblox.users.model.QBUser;
 
 import java.util.List;
 
+import vc908.stickerfactory.StickersManager;
 
 public class DialogsAdapter extends BaseAdapter {
     private List<QBDialog> dataSource;
@@ -79,7 +80,7 @@ public class DialogsAdapter extends BaseAdapter {
                 holder.name.setText(user.getLogin() == null ? user.getFullName() : user.getLogin());
             }
         }
-        if (dialog.getLastMessage() != null ) {
+        if (dialog.getLastMessage() != null && StickersManager.isSticker(dialog.getLastMessage())) {
             holder.lastMessage.setText("Sticker");
         } else {
             holder.lastMessage.setText(dialog.getLastMessage());

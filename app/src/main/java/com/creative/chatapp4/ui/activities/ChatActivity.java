@@ -7,6 +7,7 @@ import android.os.Build;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.util.Log;
+import android.view.KeyEvent;
 import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.Button;
@@ -30,9 +31,6 @@ import com.quickblox.chat.model.QBDialogType;
 import com.quickblox.core.QBEntityCallback;
 import com.quickblox.core.exception.QBResponseException;
 import com.quickblox.core.request.QBRequestGetBuilder;
-import com.rockerhieu.emojicon.EmojiconGridFragment;
-import com.rockerhieu.emojicon.EmojiconsFragment;
-import com.rockerhieu.emojicon.emoji.Emojicon;
 
 import org.jivesoftware.smack.ConnectionListener;
 import org.jivesoftware.smack.SmackException;
@@ -42,14 +40,20 @@ import org.jivesoftware.smack.XMPPException;
 import java.util.ArrayList;
 import java.util.Date;
 
+import vc908.stickerfactory.StickersManager;
+import vc908.stickerfactory.StorageManager;
+import vc908.stickerfactory.ui.OnEmojiBackspaceClickListener;
+import vc908.stickerfactory.ui.OnStickerSelectedListener;
+import vc908.stickerfactory.ui.fragment.StickersFragment;
+import vc908.stickerfactory.ui.view.KeyboardHandleRelativeLayout;
 
-public class ChatActivity extends BaseActivity implements EmojiconGridFragment.OnEmojiconClickedListener, EmojiconsFragment.OnEmojiconBackspaceClickedListener {
+public class ChatActivity extends BaseActivity implements KeyboardHandleRelativeLayout.KeyboardSizeChangeListener {
 
     private static final String TAG = ChatActivity.class.getSimpleName();
 
     public static final String EXTRA_DIALOG = "dialog";
     private final String PROPERTY_SAVE_TO_HISTORY = "save_to_history";
-
+    StorageManager sh;
     private EditText messageEditText;
     private ListView messagesContainer;
     private Button sendButton;
@@ -58,6 +62,7 @@ public class ChatActivity extends BaseActivity implements EmojiconGridFragment.O
 
     private Chat chat;
     private QBDialog dialog;
+    private KeyboardHandleRelativeLayout keyboardHandleLayout;
     private View stickersFrame;
     private boolean isStickersFrameVisible;
     private ImageView stickerButton;
@@ -75,13 +80,13 @@ public class ChatActivity extends BaseActivity implements EmojiconGridFragment.O
         setContentView(R.layout.activity_chat);
 
         initViews();
-        setEmojiconFragment(false);
+
         // Init chat if the session is active
         //
         if (isSessionActive()) {
             initChat();
         }
-        stickersFrame.setVisibility(View.INVISIBLE);
+
         ChatService.getInstance().addConnectionListener(chatConnectionListener);
     }
 
@@ -147,45 +152,55 @@ public class ChatActivity extends BaseActivity implements EmojiconGridFragment.O
         });
 
         // Stickers
-
+        keyboardHandleLayout = (KeyboardHandleRelativeLayout) findViewById(R.id.sizeNotifierLayout);
+        keyboardHandleLayout.setKeyboardSizeChangeListener(this);
         stickersFrame = findViewById(R.id.frame);
         stickerButton = (ImageView) findViewById(R.id.stickers_button);
 
         stickerButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
                 if (isStickersFrameVisible) {
                     showKeyboard();
                     stickerButton.setImageResource(R.drawable.ic_action_insert_emoticon);
                 } else {
-                    stickersFrame.setVisibility(View.VISIBLE);
-                    stickerButton.setImageResource(R.drawable.ic_action_keyboard);
-//                    setStickersFrameVisible(true);
-                    container.setPadding(0, 0, 0, 500);
+                    if (keyboardHandleLayout.isKeyboardVisible()) {
+                        keyboardHandleLayout.hideKeyboard(ChatActivity.this, new KeyboardHandleRelativeLayout.KeyboardHideCallback() {
+                            @Override
+                            public void onKeyboardHide() {
+                                stickerButton.setImageResource(R.drawable.ic_action_keyboard);
+                                setStickersFrameVisible(true);
+                            }
+                        });
+                    } else {
+                        stickerButton.setImageResource(R.drawable.ic_action_keyboard);
+                        setStickersFrameVisible(true);
+                    }
                 }
             }
         });
 
-
-//        setStickersFrameVisible(false);
-    }
-
-    @Override
-    public void onEmojiconClicked(Emojicon emojicon) {
-        EmojiconsFragment.input(messageEditText, emojicon);
-    }
-
-    @Override
-    public void onEmojiconBackspaceClicked(View v) {
-        EmojiconsFragment.backspace(messageEditText);
-    }
-
-    private void setEmojiconFragment(boolean useSystemDefault) {
-        getSupportFragmentManager()
-                .beginTransaction()
-                .replace(R.id.frame, EmojiconsFragment.newInstance(useSystemDefault))
-                .commit();
+        updateStickersFrameParams();
+        StickersFragment stickersFragment = (StickersFragment) getSupportFragmentManager().findFragmentById(R.id.frame);
+        if (stickersFragment == null) {
+            stickersFragment = new StickersFragment();
+            getSupportFragmentManager().beginTransaction().replace(R.id.frame, stickersFragment).commit();
+        }
+        stickersFragment.setOnStickerSelectedListener(stickerSelectedListener);
+        stickersFragment.setOnEmojiBackspaceClickListener(new OnEmojiBackspaceClickListener() {
+            @Override
+            public void onEmojiBackspaceClicked() {
+                KeyEvent event = new KeyEvent(
+                        0, 0, 0, KeyEvent.KEYCODE_DEL, 0, 0, 0, 0, KeyEvent.KEYCODE_ENDCALL);
+                messageEditText.dispatchKeyEvent(event);
+            }
+        });
+        sh = StorageManager.getInstance();
+        isStickersFrameVisible = sh.isGcmTokenSent();
+        if (!isStickersFrameVisible) {
+            stickersFrame.setVisibility(View.VISIBLE);
+        }
+        setStickersFrameVisible(isStickersFrameVisible);
     }
 
     private void showKeyboard() {
@@ -213,22 +228,54 @@ public class ChatActivity extends BaseActivity implements EmojiconGridFragment.O
         }
     }
 
+    private OnStickerSelectedListener stickerSelectedListener = new OnStickerSelectedListener() {
+        @Override
+        public void onStickerSelected(String code) {
+            if (StickersManager.isSticker(code)) {
+                sendChatMessage(code);
+                if (!isStickersFrameVisible) {
+                    stickersFrame.setVisibility(View.GONE);
+                    sh = StorageManager.getInstance();
+                    sh.storeIsGcmTokenSent(true);
+                    isStickersFrameVisible = false;
+                }
+//                setStickersFrameVisible(false);
+            } else {
+                // append emoji to edit
+                messageEditText.append(code);
+            }
+        }
+    };
+
+    @Override
+    public void onKeyboardVisibilityChanged(boolean isVisible) {
+        if (isVisible) {
+            setStickersFrameVisible(false);
+            stickerButton.setImageResource(R.drawable.ic_action_insert_emoticon);
+        } else {
+            if (isStickersFrameVisible) {
+                stickerButton.setImageResource(R.drawable.ic_action_keyboard);
+            } else {
+                stickerButton.setImageResource(R.drawable.ic_action_insert_emoticon);
+            }
+        }
+    }
 
     private void setStickersFrameVisible(final boolean isVisible) {
         stickersFrame.setVisibility(isVisible ? View.VISIBLE : View.GONE);
         isStickersFrameVisible = isVisible;
-        if (stickersFrame.getHeight() != 240) {
+        if (stickersFrame.getHeight() != vc908.stickerfactory.utils.KeyboardUtils.getKeyboardHeight()) {
             updateStickersFrameParams();
         }
-        final int padding = isVisible ? 240 : 0;
+        final int padding = isVisible ? vc908.stickerfactory.utils.KeyboardUtils.getKeyboardHeight() : 0;
         if (Build.VERSION.SDK_INT < Build.VERSION_CODES.KITKAT) {
-            new Runnable() {
+            keyboardHandleLayout.post(new Runnable() {
                 @Override
                 public void run() {
                     setContentBottomPadding(padding);
                     scrollDown();
                 }
-            };
+            });
         } else {
             setContentBottomPadding(padding);
         }
@@ -236,7 +283,7 @@ public class ChatActivity extends BaseActivity implements EmojiconGridFragment.O
     }
 
     private void updateStickersFrameParams() {
-        stickersFrame.getLayoutParams().height = 240;
+        stickersFrame.getLayoutParams().height = vc908.stickerfactory.utils.KeyboardUtils.getKeyboardHeight();
     }
 
     public void setContentBottomPadding(int padding) {

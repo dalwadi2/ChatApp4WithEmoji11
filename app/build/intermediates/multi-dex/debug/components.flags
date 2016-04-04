@@ -61,27 +61,11 @@
     <init>();
 }
 
--keep class vc908.stickerfactory.ui.activity.MarketActivity {
+-keep class vc908.stickerfactory.ui.activity.CollectionsActivity {
     <init>();
 }
 
--keep class vc908.stickerfactory.ui.activity.MoreActivity {
-    <init>();
-}
-
--keep class vc908.stickerfactory.receiver.AnalyticsTaskReceiver {
-    <init>();
-}
-
--keep class vc908.stickerfactory.receiver.UpdatePacksTaskReceiver {
-    <init>();
-}
-
--keep class com.google.android.gms.analytics.AnalyticsReceiver {
-    <init>();
-}
-
--keep class com.google.android.gms.analytics.AnalyticsService {
+-keep class vc908.stickerfactory.ui.activity.ShopWebViewActivity {
     <init>();
 }
 

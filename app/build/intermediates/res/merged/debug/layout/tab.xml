@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ImageView xmlns:android="http://schemas.android.com/apk/res/android"
-           android:layout_width="@dimen/sticker_tab_size"
-           android:layout_height="@dimen/sticker_tab_size"
-           android:padding="@dimen/sticker_tab_padding"
-           android:scaleType="fitXY"
-           android:contentDescription="@null"/><!-- From: file:/Users/dmitriynezhidenko/dev/908/StickerSample/stickerfactory/src/main/res/layout/tab.xml -->

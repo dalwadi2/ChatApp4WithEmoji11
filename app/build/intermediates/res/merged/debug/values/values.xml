@@ -19,6 +19,11 @@
     <bool name="abc_config_allowActionMenuItemTextWithIcon">false</bool>
     <bool name="abc_config_closeDialogWhenTouchOutside">true</bool>
     <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+    <bool name="sb__is_phone">true</bool>
+    <bool name="sb__is_swipeable">false</bool>
+    <bool name="spb_default_mirror_mode">false</bool>
+    <bool name="spb_default_progressiveStart_activated">false</bool>
+    <bool name="spb_default_reversed">false</bool>
     <color name="abc_input_method_navigation_guard">@android:color/black</color>
     <color name="abc_search_url_text_normal">#7fa87f</color>
     <color name="abc_search_url_text_pressed">@android:color/black</color>
@@ -29,12 +34,18 @@
     <color name="background_floating_material_light">@android:color/white</color>
     <color name="background_material_dark">@color/material_grey_850</color>
     <color name="background_material_light">@color/material_grey_50</color>
+    <color name="bg_login">#26ae90</color>
+    <color name="bg_main">#428bca</color>
+    <color name="bg_register">#2e3237</color>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
     <color name="bright_foreground_inverse_material_dark">@color/bright_foreground_material_light</color>
     <color name="bright_foreground_inverse_material_light">@color/bright_foreground_material_dark</color>
     <color name="bright_foreground_material_dark">@android:color/white</color>
     <color name="bright_foreground_material_light">@android:color/black</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="btn_logut_bg">#ff6861</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="colorAccent">#FF4081</color>
@@ -78,8 +89,12 @@
     <color name="hint_foreground_material_light">@color/bright_foreground_disabled_material_light</color>
     <color name="horizontal_divider">#8f8f8f</color>
     <color name="horizontal_vertical">#8f8f8f</color>
-    <color name="list_item_normal">#ffffffff</color>
-    <color name="list_item_pressed">#ffe1e1e1</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="lbl_name">#333333</color>
     <color name="material_blue_grey_800">#ff37474f</color>
     <color name="material_blue_grey_900">#ff263238</color>
     <color name="material_blue_grey_950">#ff21272b</color>
@@ -92,30 +107,59 @@
     <color name="material_grey_800">#ff424242</color>
     <color name="material_grey_850">#ff303030</color>
     <color name="material_grey_900">#ff212121</color>
-    <color name="primary">#5E7A87</color>
+    <color name="navigationBarColor">#000000</color>
     <color name="primary_dark_material_dark">@android:color/black</color>
     <color name="primary_dark_material_light">@color/material_grey_600</color>
     <color name="primary_material_dark">@color/material_grey_900</color>
     <color name="primary_material_light">@color/material_grey_100</color>
-    <color name="primary_text">@android:color/black</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4Dffffff</color>
     <color name="primary_text_disabled_material_light">#39000000</color>
-    <color name="remove_icon">#616161</color>
-    <color name="reorder_icon">#9e9e9e</color>
     <color name="ripple_material_dark">#33ffffff</color>
     <color name="ripple_material_light">#1f000000</color>
-    <color name="secondary_text">#616161</color>
+    <color name="sb__action_bg_color">#1affffff</color>
+    <color name="sb__action_text_color">#ffffffff</color>
+    <color name="sb__background">#ff323232</color>
+    <color name="sb__text_color">#ffffffff</color>
     <color name="secondary_text_default_material_dark">#b3ffffff</color>
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
-    <color name="stickers_emoji">@android:color/black</color>
-    <color name="stickers_list_bg">@android:color/white</color>
-    <color name="stickers_tab_bg">@color/primary</color>
-    <color name="stickers_tab_icons_filter">@android:color/white</color>
-    <color name="stickers_tab_strip">#fff</color>
+    <color name="sp_button_badge_center">@android:color/white</color>
+    <color name="sp_button_badge_inner">@color/sp_red_500</color>
+    <color name="sp_button_badge_outer">@android:color/white</color>
+    <color name="sp_error_message">#444</color>
+    <color name="sp_list_item_normal">@android:color/white</color>
+    <color name="sp_list_item_pressed">#ffe1e1e1</color>
+    <color name="sp_notification_icon_background">@color/sp_primary</color>
+    <color name="sp_pack_info_bg">#eceff1</color>
+    <color name="sp_pack_info_message_image_filter">@color/sp_primary</color>
+    <color name="sp_pack_info_message_text">@color/sp_primary</color>
+    <color name="sp_placeholder_color_filer">@color/sp_primary_light</color>
+    <color name="sp_primary">#5E7A87</color>
+    <color name="sp_primary_dark">#455A64</color>
+    <color name="sp_primary_light">#CFD8DC</color>
+    <color name="sp_primary_text">@android:color/black</color>
+    <color name="sp_red_500">#F44336</color>
+    <color name="sp_remove_icon">#616161</color>
+    <color name="sp_reorder_icon">#9e9e9e</color>
+    <color name="sp_secondary_text">#616161</color>
+    <color name="sp_shop_item_text">@android:color/black</color>
+    <color name="sp_stickers_backspace">@color/sp_primary</color>
+    <color name="sp_stickers_empty_image_filter">@color/sp_primary</color>
+    <color name="sp_stickers_empty_text">@color/sp_primary</color>
+    <color name="sp_stickers_list_bg">#eceff1</color>
+    <color name="sp_stickers_tab_bg">@color/sp_primary</color>
+    <color name="sp_stickers_tab_icons_filter">@android:color/white</color>
+    <color name="sp_stickers_tab_strip">@android:color/white</color>
+    <color name="sp_subscription_dialog_bg">#fff</color>
+    <color name="sp_subscription_text">#9E9E9E</color>
+    <color name="sp_tab_badge_center">@android:color/white</color>
+    <color name="sp_tab_badge_inner">@color/sp_red_500</color>
+    <color name="sp_tab_badge_outer">@color/sp_primary</color>
+    <color name="sp_toolbar_bg">@color/sp_primary</color>
+    <color name="spb_default_color">#33b5e5</color>
     <color name="switch_thumb_disabled_material_dark">#ff616161</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
@@ -133,6 +177,8 @@
     <color name="wallet_hint_foreground_holo_light">#808080</color>
     <color name="wallet_holo_blue_light">#ff33b5e5</color>
     <color name="wallet_link_text_light">#0000ee</color>
+    <color name="white">#ffffff</color>
+    <color name="windowBackground">#FFFFFF</color>
     <declare-styleable name="ActionBar"><attr name="navigationMode"><enum name="normal" value="0"/><enum name="listMode" value="1"/><enum name="tabMode" value="2"/></attr><attr name="displayOptions"><flag name="none" value="0"/><flag name="useLogo" value="0x1"/><flag name="showHome" value="0x2"/><flag name="homeAsUp" value="0x4"/><flag name="showTitle" value="0x8"/><flag name="showCustom" value="0x10"/><flag name="disableHome" value="0x20"/></attr><attr name="title"/><attr format="string" name="subtitle"/><attr format="reference" name="titleTextStyle"/><attr format="reference" name="subtitleTextStyle"/><attr format="reference" name="icon"/><attr format="reference" name="logo"/><attr format="reference" name="divider"/><attr format="reference" name="background"/><attr format="reference|color" name="backgroundStacked"/><attr format="reference|color" name="backgroundSplit"/><attr format="reference" name="customNavigationLayout"/><attr name="height"/><attr format="reference" name="homeLayout"/><attr format="reference" name="progressBarStyle"/><attr format="reference" name="indeterminateProgressStyle"/><attr format="dimension" name="progressBarPadding"/><attr name="homeAsUpIndicator"/><attr format="dimension" name="itemPadding"/><attr format="boolean" name="hideOnContentScroll"/><attr format="dimension" name="contentInsetStart"/><attr format="dimension" name="contentInsetEnd"/><attr format="dimension" name="contentInsetLeft"/><attr format="dimension" name="contentInsetRight"/><attr format="dimension" name="elevation"/><attr format="reference" name="popupTheme"/></declare-styleable>
     <declare-styleable name="ActionBarLayout"><attr name="android:layout_gravity"/></declare-styleable>
     <declare-styleable name="ActionMenuItemView"><attr name="android:minWidth"/></declare-styleable>
@@ -173,6 +219,7 @@
     <declare-styleable name="ScrollingViewBehavior_Params"><attr format="dimension" name="behavior_overlapTop"/></declare-styleable>
     <declare-styleable name="SearchView"><attr format="reference" name="layout"/><attr format="boolean" name="iconifiedByDefault"/><attr name="android:maxWidth"/><attr format="string" name="queryHint"/><attr format="string" name="defaultQueryHint"/><attr name="android:imeOptions"/><attr name="android:inputType"/><attr format="reference" name="closeIcon"/><attr format="reference" name="goIcon"/><attr format="reference" name="searchIcon"/><attr format="reference" name="searchHintIcon"/><attr format="reference" name="voiceIcon"/><attr format="reference" name="commitIcon"/><attr format="reference" name="suggestionRowLayout"/><attr format="reference" name="queryBackground"/><attr format="reference" name="submitBackground"/><attr name="android:focusable"/></declare-styleable>
     <declare-styleable name="SignInButton"><attr format="reference|enum" name="buttonSize"><enum name="standard" value="0"/><enum name="wide" value="1"/><enum name="icon_only" value="2"/></attr><attr format="reference|enum" name="colorScheme"><enum name="dark" value="0"/><enum name="light" value="1"/><enum name="auto" value="2"/></attr><attr format="reference|string" name="scopeUris"/></declare-styleable>
+    <declare-styleable name="SmoothProgressBar"><attr format="reference" name="spbStyle"/><attr format="color" name="spb_color"/><attr format="dimension" name="spb_stroke_width"/><attr format="dimension" name="spb_stroke_separator_length"/><attr format="integer" name="spb_sections_count"/><attr format="float" name="spb_speed"/><attr format="float" name="spb_progressiveStart_speed"/><attr format="float" name="spb_progressiveStop_speed"/><attr format="enum" name="spb_interpolator"><enum name="spb_interpolator_accelerate" value="0"/><enum name="spb_interpolator_linear" value="1"/><enum name="spb_interpolator_acceleratedecelerate" value="2"/><enum name="spb_interpolator_decelerate" value="3"/></attr><attr format="boolean" name="spb_reversed"/><attr format="boolean" name="spb_mirror_mode"/><attr format="reference" name="spb_colors"/><attr format="boolean" name="spb_progressiveStart_activated"/><attr format="reference" name="spb_background"/><attr format="boolean" name="spb_generate_background_with_colors"/><attr format="boolean" name="spb_gradients"/></declare-styleable>
     <declare-styleable name="SnackbarLayout"><attr name="android:maxWidth"/><attr name="elevation"/><attr format="dimension" name="maxActionInlineWidth"/></declare-styleable>
     <declare-styleable name="Spinner"><attr name="android:prompt"/><attr name="popupTheme"/><attr name="android:popupBackground"/><attr name="android:dropDownWidth"/></declare-styleable>
     <declare-styleable name="SwitchCompat"><attr name="android:thumb"/><attr format="reference" name="track"/><attr name="android:textOn"/><attr name="android:textOff"/><attr format="dimension" name="thumbTextPadding"/><attr format="reference" name="switchTextAppearance"/><attr format="dimension" name="switchMinWidth"/><attr format="dimension" name="switchPadding"/><attr format="boolean" name="splitTrack"/><attr format="boolean" name="showText"/></declare-styleable>
@@ -255,7 +302,6 @@
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <dimen name="backspace_column_width">56dp</dimen>
     <dimen name="design_appbar_elevation">4dp</dimen>
     <dimen name="design_fab_border_width">0.5dp</dimen>
     <dimen name="design_fab_content_size">24dp</dimen>
@@ -302,19 +348,43 @@
     <dimen name="material_32">32dp</dimen>
     <dimen name="material_40">40dp</dimen>
     <dimen name="material_48">48dp</dimen>
+    <dimen name="material_56">56dp</dimen>
     <dimen name="material_72">72dp</dimen>
     <dimen name="material_8">8dp</dimen>
     <dimen name="mr_media_route_controller_art_max_height">320dp</dimen>
     <dimen name="notification_large_icon_height">64dp</dimen>
     <dimen name="notification_large_icon_width">64dp</dimen>
     <dimen name="notification_subtext_size">12dp</dimen>
-    <dimen name="sticker_item_size">160dp</dimen>
-    <dimen name="sticker_tab_padding">12dp</dimen>
-    <dimen name="sticker_tab_size">48dp</dimen>
+    <dimen name="sb__bg_corner_radius">0dp</dimen>
+    <dimen name="sb__max_width">568dp</dimen>
+    <dimen name="sb__min_width">288dp</dimen>
+    <dimen name="sb__offset">0dp</dimen>
+    <dimen name="sb__text_padding_bottom">14dp</dimen>
+    <dimen name="sb__text_padding_left">24dp</dimen>
+    <dimen name="sb__text_padding_right">24dp</dimen>
+    <dimen name="sb__text_padding_top">14dp</dimen>
+    <dimen name="sb__text_size">14sp</dimen>
+    <dimen name="sp_backspace_column_width">56dp</dimen>
+    <dimen name="sp_coin_padding">2dp</dimen>
+    <dimen name="sp_default_keyboard_size">248dp</dimen>
+    <dimen name="sp_list_max_sticker_width">160dp</dimen>
+    <dimen name="sp_max_banner_height">168dp</dimen>
+    <dimen name="sp_max_banner_width">360dp</dimen>
+    <dimen name="sp_min_banner_height">160dp</dimen>
+    <dimen name="sp_pack_image_offset">-32dp</dimen>
+    <dimen name="sp_sticker_item_size">160dp</dimen>
+    <dimen name="sp_sticker_shop_divider">1dp</dimen>
+    <dimen name="sp_sticker_tab_padding">12dp</dimen>
+    <dimen name="sp_sticker_tab_size">48dp</dimen>
+    <dimen name="sp_tab_indicator_size">12dp</dimen>
+    <dimen name="sp_toolbar_elevation">2dp</dimen>
+    <dimen name="spb_default_stroke_separator_length">4dp</dimen>
+    <dimen name="spb_default_stroke_width">4dp</dimen>
     <dimen name="text_12">12sp</dimen>
     <dimen name="text_14">14sp</dimen>
     <dimen name="text_16">16sp</dimen>
     <dimen name="text_18">18sp</dimen>
+    <dimen name="text_24">24sp</dimen>
     <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
     <item name="action_bar_activity_content" type="id"/>
     <item name="action_bar_spinner" type="id"/>
@@ -327,6 +397,7 @@
     <item name="progress_circular" type="id"/>
     <item name="progress_horizontal" type="id"/>
     <item name="scrollview" type="id"/>
+    <item name="sp_loader_key" type="id"/>
     <item name="split_action_bar" type="id"/>
     <item name="up" type="id"/>
     <item name="view_offset_helper" type="id"/>
@@ -337,6 +408,8 @@
     <integer name="cancel_button_image_alpha">127</integer>
     <integer name="design_snackbar_text_max_lines">2</integer>
     <integer name="google_play_services_version">8298000</integer>
+    <integer name="spb_default_interpolator">0</integer>
+    <integer name="spb_default_sections_count">4</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -363,11 +436,15 @@
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
     <string name="auth_google_play_services_client_google_display_name">Google</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="btn_register">REGISTER</string>
     <string name="cast_notification_connected_message">Connected to <ns1:g id="name">%1$s</ns1:g></string>
     <string name="cast_notification_connecting_message">Connecting to <ns1:g id="name">%1$s</ns1:g></string>
     <string name="cast_notification_disconnect">Disconnect</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
-    <string name="collections">Collections</string>
     <string name="common_android_wear_notification_needs_update_text"><ns1:g id="app_name">%1$s</ns1:g> requires an update to the Android Wear app.</string>
     <string name="common_android_wear_update_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run unless you update the Android Wear app.</string>
     <string msgid="6006316683626838685" name="common_android_wear_update_title">Update Android Wear</string>
@@ -403,8 +480,21 @@
     <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
     <string name="create_calendar_title">Create calendar event</string>
     <string name="decline">Decline</string>
+    <string name="define_smoothprogressbar"/>
     <string name="gcm_defaultSenderId" translatable="false">1024990644353</string>
     <string name="google_app_id">1:1024990644353:android:37232c766a76c534</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_name">Fullname</string>
+    <string name="hint_password">Password</string>
+    <string name="library_smoothprogressbar_author">Antoine Merle</string>
+    <string name="library_smoothprogressbar_authorWebsite">https://github.com/castorflex</string>
+    <string name="library_smoothprogressbar_isOpenSource">true</string>
+    <string name="library_smoothprogressbar_libraryDescription">Small library allowing you to make a smooth indeterminate progress bar. You can either user your progress bars and set this drawable or use directly the SmoothProgressBarView.</string>
+    <string name="library_smoothprogressbar_libraryName">SmoothProgressBar</string>
+    <string name="library_smoothprogressbar_libraryVersion">1.0.0</string>
+    <string name="library_smoothprogressbar_libraryWebsite">https://github.com/castorflex/SmoothProgressBar</string>
+    <string name="library_smoothprogressbar_licenseId">apache_2_0</string>
+    <string name="library_smoothprogressbar_repositoryLink">https://github.com/castorflex/SmoothProgressBar.git</string>
     <string name="mr_media_route_button_content_description">Cast</string>
     <string name="mr_media_route_chooser_searching">Searching for devices\u2026</string>
     <string name="mr_media_route_chooser_title">Connect to device</string>
@@ -415,19 +505,44 @@
     <string name="mr_media_route_controller_stop">Stop casting</string>
     <string name="mr_system_route_name">System</string>
     <string name="mr_user_route_category_name">Devices</string>
-    <string name="package_removed">Package removed</string>
+    <string name="name">Fullname</string>
     <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
     <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
     <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
     <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
     <string name="pull_to_refresh_refreshing_label">Loading…</string>
     <string name="pull_to_refresh_release_label">Release to refresh…</string>
-    <string name="recently_empty">We have wonderful stickers!\nSwipe left and start using</string>
+    <string name="sp_activate">Activate</string>
+    <string name="sp_cant_process_request">Can not process request</string>
+    <string name="sp_collections">Collections</string>
+    <string name="sp_content_is_unavailable">This content is currently\nunavailable</string>
+    <string name="sp_download">Download</string>
+    <string name="sp_free">Free</string>
+    <string name="sp_no_internet_connection">No internet connection</string>
+    <string name="sp_open_stickers">Open stickers</string>
+    <string name="sp_pack_download">Download</string>
+    <string name="sp_pack_info">Pack info</string>
+    <string name="sp_pack_remove">Remove pack</string>
+    <string name="sp_package_removed">Pack removed</string>
+    <string name="sp_package_stored">Pack stored</string>
+    <string name="sp_recently_empty">We have wonderful stickers!\nSwipe left and start using
+    </string>
+    <string name="sp_reload">Reload</string>
+    <string name="sp_shop">Shop</string>
+    <string formatted="false" name="sp_shop_packs_list_promo_title">%s %s</string>
+    <string name="sp_subscription_text">Send emotions with original Stickers! Available on premium
+        status.
+    </string>
+    <string name="sp_tab_free">Free</string>
+    <string name="sp_tab_new">New</string>
+    <string name="sp_tab_top">Top</string>
+    <string name="sp_undo">Undo</string>
+    <item format="float" name="spb_default_speed" type="string">1</item>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="store_picture_message">"Allow Ad to store image in Picture gallery?"</string>
     <string name="store_picture_title">Save image</string>
-    <string name="undo">UNDO</string>
     <string name="wallet_buy_button_place_holder">Buy with Google</string>
+    <string name="welcome">Welcome</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
@@ -1533,6 +1648,32 @@
         <item name="android:paddingLeft">@dimen/abc_action_bar_overflow_padding_start_material</item>
         <item name="android:paddingRight">@dimen/abc_action_bar_overflow_padding_end_material</item>
     </style>
+    <style name="SPB" parent="android:Widget.ProgressBar.Horizontal">
+    </style>
+    <style name="SmoothProgressBar" parent="SPB">
+        <item name="spb_color">@color/spb_default_color</item>
+        <item name="spb_sections_count">@integer/spb_default_sections_count</item>
+        <item name="spb_speed">@string/spb_default_speed</item>
+        <item name="spb_stroke_width">@dimen/spb_default_stroke_width</item>
+        <item name="spb_stroke_separator_length">@dimen/spb_default_stroke_separator_length</item>
+        <item name="spb_reversed">@bool/spb_default_reversed</item>
+        <item name="spb_mirror_mode">@bool/spb_default_mirror_mode</item>
+        <item name="spb_interpolator">@integer/spb_default_interpolator</item>
+    </style>
+    <style name="Snackbar"/>
+    <style name="Snackbar.Text">
+        <item name="android:paddingBottom">@dimen/sb__text_padding_bottom</item>
+        <item name="android:paddingLeft">@dimen/sb__text_padding_left</item>
+        <item name="android:paddingTop">@dimen/sb__text_padding_top</item>
+        <item name="android:paddingRight">@dimen/sb__text_padding_right</item>
+        <item name="android:textSize">@dimen/sb__text_size</item>
+        <item name="android:textColor">@color/sb__text_color</item>
+    </style>
+    <style name="Snackbar.Text.Action">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/sb__action_text_color</item>
+        <item name="android:background">@drawable/sb__btn_bg</item>
+    </style>
     <style name="TextAppearance.AppCompat" parent="Base.TextAppearance.AppCompat"/>
     <style name="TextAppearance.AppCompat.Body1" parent="Base.TextAppearance.AppCompat.Body1"/>
     <style name="TextAppearance.AppCompat.Body2" parent="Base.TextAppearance.AppCompat.Body2"/>
@@ -1671,6 +1812,9 @@
         <item name="mediaRouteSettingsDrawable">@drawable/mr_ic_settings_light</item>
         <item name="mediaRoutePlayDrawable">@drawable/mr_ic_play_light</item>
         <item name="mediaRoutePauseDrawable">@drawable/mr_ic_pause_light</item>
+    </style>
+    <style name="Theme.SmoothProgressBarDefaults" parent="android:Theme">
+        <item name="spbStyle">@style/SmoothProgressBar</item>
     </style>
     <style name="ThemeOverlay.AppCompat" parent="Base.ThemeOverlay.AppCompat"/>
     <style name="ThemeOverlay.AppCompat.ActionBar" parent="Base.ThemeOverlay.AppCompat.ActionBar"/>

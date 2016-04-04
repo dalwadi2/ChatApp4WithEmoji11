@@ -1736,6 +1736,48 @@
                         "endOffset": 19843
                     }
                 }
+            },
+            {
+                "to": {
+                    "startLine": 245,
+                    "startColumn": 4,
+                    "startOffset": 17866,
+                    "endLine": 246,
+                    "endColumn": 12,
+                    "endOffset": 17953
+                },
+                "from": {
+                    "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.github.castorflex.smoothprogressbar\\library\\1.1.0\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 247,
+                    "startColumn": 4,
+                    "startOffset": 17958,
+                    "endLine": 252,
+                    "endColumn": 12,
+                    "endOffset": 18267
+                },
+                "from": {
+                    "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
             }
         ]
     }

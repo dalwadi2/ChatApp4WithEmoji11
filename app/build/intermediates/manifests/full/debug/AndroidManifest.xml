@@ -28,11 +28,13 @@
 
     <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name="com.android.vending.BILLING" />
+
     <uses-feature
         android:glEsVersion="0x00020000"
         android:required="true" />
- <!-- Permissions required for GCM -->
-    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
     <uses-permission android:name="android.permission.GET_ACCOUNTS" />
     <uses-permission android:name="android.permission.USE_CREDENTIALS" />
 
@@ -114,26 +116,15 @@
             android:exported="false" />
 
         <activity
-            android:name="vc908.stickerfactory.ui.activity.MarketActivity"
+            android:name="vc908.stickerfactory.ui.activity.CollectionsActivity"
+            android:launchMode="singleTask"
             android:theme="@style/Theme.AppCompat.NoActionBar" />
         <activity
-            android:name="vc908.stickerfactory.ui.activity.MoreActivity"
+            android:name="vc908.stickerfactory.ui.activity.ShopWebViewActivity"
+            android:configChanges="orientation"
+            android:launchMode="singleInstance"
+            android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.NoActionBar" />
-
-        <receiver android:name="vc908.stickerfactory.receiver.AnalyticsTaskReceiver" />
-        <receiver android:name="vc908.stickerfactory.receiver.UpdatePacksTaskReceiver" />
-        <receiver
-            android:name="com.google.android.gms.analytics.AnalyticsReceiver"
-            android:enabled="true" >
-            <intent-filter>
-                <action android:name="com.google.android.gms.analytics.ANALYTICS_DISPATCH" />
-            </intent-filter>
-        </receiver>
-
-        <service
-            android:name="com.google.android.gms.analytics.AnalyticsService"
-            android:enabled="true"
-            android:exported="false" />
  <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"

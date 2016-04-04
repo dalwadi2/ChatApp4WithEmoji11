@@ -26,8 +26,27 @@
                     "startLine": 3,
                     "startColumn": 4,
                     "startOffset": 132,
+                    "endColumn": 42,
+                    "endOffset": 170
+                },
+                "from": {
+                    "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\values-xlarge-v4\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 42,
+                        "endOffset": 203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 175,
                     "endColumn": 70,
-                    "endOffset": 198
+                    "endOffset": 241
                 },
                 "from": {
                     "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-xlarge\\values-xlarge.xml",
@@ -42,11 +61,11 @@
             },
             {
                 "to": {
-                    "startLine": 4,
+                    "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 203,
+                    "startOffset": 246,
                     "endColumn": 70,
-                    "endOffset": 269
+                    "endOffset": 312
                 },
                 "from": {
                     "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-xlarge\\values-xlarge.xml",
@@ -61,11 +80,11 @@
             },
             {
                 "to": {
-                    "startLine": 5,
+                    "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 274,
+                    "startOffset": 317,
                     "endColumn": 69,
-                    "endOffset": 339
+                    "endOffset": 382
                 },
                 "from": {
                     "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-xlarge\\values-xlarge.xml",
@@ -80,11 +99,11 @@
             },
             {
                 "to": {
-                    "startLine": 6,
+                    "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 344,
+                    "startOffset": 387,
                     "endColumn": 69,
-                    "endOffset": 409
+                    "endOffset": 452
                 },
                 "from": {
                     "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-xlarge\\values-xlarge.xml",
@@ -99,11 +118,11 @@
             },
             {
                 "to": {
-                    "startLine": 7,
+                    "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 414,
+                    "startOffset": 457,
                     "endColumn": 67,
-                    "endOffset": 477
+                    "endOffset": 520
                 },
                 "from": {
                     "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-xlarge\\values-xlarge.xml",
@@ -118,11 +137,11 @@
             },
             {
                 "to": {
-                    "startLine": 8,
+                    "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 482,
+                    "startOffset": 525,
                     "endColumn": 67,
-                    "endOffset": 545
+                    "endOffset": 588
                 },
                 "from": {
                     "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-xlarge\\values-xlarge.xml",
@@ -137,11 +156,11 @@
             },
             {
                 "to": {
-                    "startLine": 9,
+                    "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 550,
+                    "startOffset": 593,
                     "endColumn": 63,
-                    "endOffset": 609
+                    "endOffset": 652
                 },
                 "from": {
                     "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-xlarge\\values-xlarge.xml",
@@ -156,11 +175,87 @@
             },
             {
                 "to": {
-                    "startLine": 10,
+                    "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 614,
+                    "startOffset": 657,
+                    "endColumn": 50,
+                    "endOffset": 703
+                },
+                "from": {
+                    "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\values-xlarge-v4\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 319,
+                        "endColumn": 50,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 708,
+                    "endColumn": 45,
+                    "endOffset": 749
+                },
+                "from": {
+                    "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\values-xlarge-v4\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 370,
+                        "endColumn": 45,
+                        "endOffset": 411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 754,
+                    "endColumn": 45,
+                    "endOffset": 795
+                },
+                "from": {
+                    "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\values-xlarge-v4\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 416,
+                        "endColumn": 45,
+                        "endOffset": 457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 800,
+                    "endColumn": 41,
+                    "endOffset": 837
+                },
+                "from": {
+                    "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\values-xlarge-v4\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 462,
+                        "endColumn": 41,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 842,
                     "endColumn": 54,
-                    "endOffset": 664
+                    "endOffset": 892
                 },
                 "from": {
                     "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-xlarge\\values-xlarge.xml",
