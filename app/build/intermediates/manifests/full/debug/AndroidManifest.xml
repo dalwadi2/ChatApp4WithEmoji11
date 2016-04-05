@@ -57,6 +57,14 @@
             </intent-filter>
         </activity>
         <activity
+            android:name="com.creative.chatapp4.ui.activities.LoginActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.creative.chatapp4.ui.activities.RegisterActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
             android:name="com.creative.chatapp4.ui.activities.NewDialogActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:screenOrientation="portrait" />

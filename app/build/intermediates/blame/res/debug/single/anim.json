@@ -1,31 +1,95 @@
 [
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sp_slide_out_down.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\anim\\sp_slide_out_down.xml"
-    },
-    {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_out.xml"
-    },
-    {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sb__bottom_in.xml",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\anim\\sb__bottom_in.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_in.xml"
     },
     {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sb__top_out.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\anim\\sb__top_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sb__top_in.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\anim\\sb__top_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sb__top_in.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\anim\\sb__top_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.navercorp.pulltorefresh\\library\\3.2.3\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sb__bottom_out.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\anim\\sb__bottom_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sp_slide_out_down.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\anim\\sp_slide_out_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sb__top_out.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\anim\\sb__top_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
@@ -40,6 +104,10 @@
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\anim\\sp_slide_in_up.xml"
     },
     {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.navercorp.pulltorefresh\\library\\3.2.3\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
     },
@@ -52,24 +120,40 @@
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sb__top_out.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\anim\\sb__top_out.xml"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.navercorp.pulltorefresh\\library\\3.2.3\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_out.xml"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sb__bottom_out.xml",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\anim\\sb__bottom_out.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sb__top_in.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\anim\\sb__top_in.xml"
-    },
-    {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.navercorp.pulltorefresh\\library\\3.2.3\\res\\anim\\slide_out_to_bottom.xml"
     },
     {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_in.xml"
+    },
+    {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.navercorp.pulltorefresh\\library\\3.2.3\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sb__bottom_in.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\anim\\sb__bottom_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sp_slide_out_down.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\anim\\sp_slide_out_down.xml"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
@@ -80,12 +164,24 @@
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.navercorp.pulltorefresh\\library\\3.2.3\\res\\anim\\slide_in_from_bottom.xml"
     },
     {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sp_slide_in_up.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\anim\\sp_slide_in_up.xml"
+    },
+    {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
     },
     {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.navercorp.pulltorefresh\\library\\3.2.3\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_out.xml"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
@@ -96,8 +192,8 @@
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.1.5\\res\\anim\\slide_out_down.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_out.xml"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_up.xml",

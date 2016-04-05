@@ -8,96 +8,92 @@
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_indeterminate_horizontal_holo.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.navercorp.pulltorefresh\\library\\3.2.3\\res\\drawable\\progress_indeterminate_horizontal_holo.xml"
-    },
-    {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal_holo_light.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.navercorp.pulltorefresh\\library\\3.2.3\\res\\drawable\\progress_horizontal_holo_light.xml"
-    },
-    {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_pause_light.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_list_item_remove_bg.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable\\sp_list_item_remove_bg.xml"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_remove_bg.xml",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.1.5\\res\\drawable\\list_item_remove_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_button_badge.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable\\sp_button_badge.xml"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_logo.png",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\src\\main\\res\\drawable\\app_logo.png"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_room.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\src\\main\\res\\drawable\\ic_room.png"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qb_splash_bg.png",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\src\\main\\res\\drawable\\qb_splash_bg.png"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_new.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\src\\main\\res\\drawable\\ic_action_new.png"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_tab_placeholder.xml",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable\\sp_tab_placeholder.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orca_emoji_tab_background.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.rockerhieu.emojicon\\library\\1.0\\res\\drawable\\orca_emoji_tab_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_sticker_placeholder.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable\\sp_sticker_placeholder.xml"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_play_dark.xml"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\incoming_message_bg.9.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\src\\main\\res\\drawable\\incoming_message_bg.9.png"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orca_composer_attach_photo_button.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.rockerhieu.emojicon\\library\\1.0\\res\\drawable\\orca_composer_attach_photo_button.xml"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qb_splash_bg.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\src\\main\\res\\drawable\\qb_splash_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orca_emoji_tab_dark_background.xml",
@@ -108,20 +104,8 @@
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.navercorp.pulltorefresh\\library\\3.2.3\\res\\drawable\\indicator_bg_top.xml"
-    },
-    {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orca_emoji_more_front_button.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.rockerhieu.emojicon\\library\\1.0\\res\\drawable\\orca_emoji_more_front_button.xml"
-    },
-    {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orca_emoji_backspace_front_button.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.rockerhieu.emojicon\\library\\1.0\\res\\drawable\\orca_emoji_backspace_front_button.xml"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_list_item_front_selector.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable\\sp_list_item_front_selector.xml"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
@@ -132,88 +116,80 @@
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable\\sp_tab_bg_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.3.0\\res\\drawable\\cast_ic_notification_connecting.xml"
-    },
-    {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_tab_pressed_bg.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable\\sp_tab_pressed_bg.xml"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sb__btn_bg.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\drawable\\sb__btn_bg.xml"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_user.png",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\src\\main\\res\\drawable\\ic_user.png"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orca_composer_popup_button_active.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.rockerhieu.emojicon\\library\\1.0\\res\\drawable\\orca_composer_popup_button_active.xml"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_tab_normal_bg.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable\\sp_tab_normal_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qb_splash_link.png",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\src\\main\\res\\drawable\\qb_splash_link.png"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sb__bg.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\drawable\\sb__bg.xml"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sb__bg.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\drawable\\sb__bg.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_new.png",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\src\\main\\res\\drawable\\ic_action_new.png"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\src\\main\\res\\drawable\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_room.png",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\src\\main\\res\\drawable\\ic_room.png"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.navercorp.pulltorefresh\\library\\3.2.3\\res\\drawable\\indicator_bg_top.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_tab_normal_bg.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable\\sp_tab_normal_bg.xml"
-    },
-    {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_settings_dark.xml"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_pause_dark.xml"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_nature_light.xml",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.rockerhieu.emojicon\\library\\1.3.3\\res\\drawable\\ic_emoji_nature_light.xml"
     },
     {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_nature_light.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.rockerhieu.emojicon\\library\\1.3.3\\res\\drawable\\ic_emoji_nature_light.xml"
+    },
+    {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orca_composer_attach_location_button.xml",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.rockerhieu.emojicon\\library\\1.0\\res\\drawable\\orca_composer_attach_location_button.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_places_light.xml",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.rockerhieu.emojicon\\library\\1.3.3\\res\\drawable\\ic_emoji_places_light.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
@@ -228,72 +204,52 @@
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.rockerhieu.emojicon\\library\\1.0\\res\\drawable\\orca_composer_attach_camera_button.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_recent_light.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.rockerhieu.emojicon\\library\\1.3.3\\res\\drawable\\ic_emoji_recent_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sb__divider_bg.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\drawable\\sb__divider_bg.xml"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sb__btn_bg.xml",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\drawable\\sb__btn_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_pause_dark.xml"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qb_splash_hero.png",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\src\\main\\res\\drawable\\qb_splash_hero.png"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\outgoing_message_bg.9.png",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\src\\main\\res\\drawable\\outgoing_message_bg.9.png"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_icon.png",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\src\\main\\res\\drawable\\app_icon.png"
-    },
-    {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_tab_badge.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable\\sp_tab_badge.xml"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.3.0\\res\\drawable\\cast_ic_notification_connecting.xml"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_front_selector.xml",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.1.5\\res\\drawable\\list_item_front_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_list_item_front_selector.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable\\sp_list_item_front_selector.xml"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_symbols_light.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.rockerhieu.emojicon\\library\\1.3.3\\res\\drawable\\ic_emoji_symbols_light.xml"
-    },
-    {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_divider.xml",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.1.5\\res\\drawable\\list_divider.xml"
-    },
-    {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_currency_icon.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable\\sp_currency_icon.xml"
-    },
-    {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\incoming_message_bg.9.png",
@@ -304,12 +260,20 @@
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_list_divider.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable\\sp_list_divider.xml"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_empty_recent.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable\\sp_empty_recent.xml"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_currency_icon.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable\\sp_currency_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
@@ -318,6 +282,10 @@
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_tab_pressed_bg.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable\\sp_tab_pressed_bg.xml"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
@@ -332,24 +300,32 @@
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_objects_light.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.rockerhieu.emojicon\\library\\1.3.3\\res\\drawable\\ic_emoji_objects_light.xml"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_people_light.xml",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.rockerhieu.emojicon\\library\\1.3.3\\res\\drawable\\ic_emoji_people_light.xml"
     },
     {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\outgoing_message_bg.9.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\src\\main\\res\\drawable\\outgoing_message_bg.9.png"
+    },
+    {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_list_item_remove_bg.xml",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable\\sp_list_item_remove_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_play_light.xml"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_people_light.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.rockerhieu.emojicon\\library\\1.3.3\\res\\drawable\\ic_emoji_people_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
@@ -364,12 +340,364 @@
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_places_light.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.rockerhieu.emojicon\\library\\1.3.3\\res\\drawable\\ic_emoji_places_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_tab_badge.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable\\sp_tab_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.navercorp.pulltorefresh\\library\\3.2.3\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qb_splash_hero.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\src\\main\\res\\drawable\\qb_splash_hero.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_indeterminate_horizontal_holo.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.navercorp.pulltorefresh\\library\\3.2.3\\res\\drawable\\progress_indeterminate_horizontal_holo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal_holo_light.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.navercorp.pulltorefresh\\library\\3.2.3\\res\\drawable\\progress_horizontal_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_button_badge.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable\\sp_button_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_button_badge.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable\\sp_button_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_logo.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\src\\main\\res\\drawable\\app_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qb_splash_bg.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\src\\main\\res\\drawable\\qb_splash_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_list_divider.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable\\sp_list_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_objects_light.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.rockerhieu.emojicon\\library\\1.3.3\\res\\drawable\\ic_emoji_objects_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orca_emoji_tab_background.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.rockerhieu.emojicon\\library\\1.0\\res\\drawable\\orca_emoji_tab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orca_composer_attach_photo_button.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.rockerhieu.emojicon\\library\\1.0\\res\\drawable\\orca_composer_attach_photo_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.navercorp.pulltorefresh\\library\\3.2.3\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orca_emoji_more_front_button.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.rockerhieu.emojicon\\library\\1.0\\res\\drawable\\orca_emoji_more_front_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qb_splash_link.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\src\\main\\res\\drawable\\qb_splash_link.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_logo.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\src\\main\\res\\drawable\\app_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orca_emoji_backspace_front_button.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.rockerhieu.emojicon\\library\\1.0\\res\\drawable\\orca_emoji_backspace_front_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.3.0\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_tab_pressed_bg.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable\\sp_tab_pressed_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_symbols_light.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.rockerhieu.emojicon\\library\\1.3.3\\res\\drawable\\ic_emoji_symbols_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orca_composer_popup_button_active.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.rockerhieu.emojicon\\library\\1.0\\res\\drawable\\orca_composer_popup_button_active.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sb__bg.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\drawable\\sb__bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_new.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\src\\main\\res\\drawable\\ic_action_new.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_indeterminate_horizontal_holo.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.navercorp.pulltorefresh\\library\\3.2.3\\res\\drawable\\progress_indeterminate_horizontal_holo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_room.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\src\\main\\res\\drawable\\ic_room.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_tab_normal_bg.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable\\sp_tab_normal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_tab_placeholder.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable\\sp_tab_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sb__divider_bg.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\drawable\\sb__divider_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_tab_bg_selector.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable\\sp_tab_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_empty_recent.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable\\sp_empty_recent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_recent_light.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.rockerhieu.emojicon\\library\\1.3.3\\res\\drawable\\ic_emoji_recent_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal_holo_light.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.navercorp.pulltorefresh\\library\\3.2.3\\res\\drawable\\progress_horizontal_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sb__divider_bg.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\drawable\\sb__divider_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal_holo_light_right.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.navercorp.pulltorefresh\\library\\3.2.3\\res\\drawable\\progress_horizontal_holo_light_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qb_splash_hero.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\src\\main\\res\\drawable\\qb_splash_hero.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_icon.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\src\\main\\res\\drawable\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_tab_badge.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable\\sp_tab_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_icon.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\src\\main\\res\\drawable\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_list_item_front_selector.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable\\sp_list_item_front_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_symbols_light.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.rockerhieu.emojicon\\library\\1.3.3\\res\\drawable\\ic_emoji_symbols_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_recent_light.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.rockerhieu.emojicon\\library\\1.3.3\\res\\drawable\\ic_emoji_recent_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_currency_icon.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable\\sp_currency_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_list_divider.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable\\sp_list_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp_empty_recent.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable\\sp_empty_recent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_objects_light.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.rockerhieu.emojicon\\library\\1.3.3\\res\\drawable\\ic_emoji_objects_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_user.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\src\\main\\res\\drawable\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\src\\main\\res\\drawable\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",

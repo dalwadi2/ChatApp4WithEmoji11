@@ -483,9 +483,11 @@
     <string name="define_smoothprogressbar"/>
     <string name="gcm_defaultSenderId" translatable="false">1024990644353</string>
     <string name="google_app_id">1:1024990644353:android:37232c766a76c534</string>
+    <string name="hint_Loginid">Login ID</string>
     <string name="hint_email">Email</string>
     <string name="hint_name">Fullname</string>
     <string name="hint_password">Password</string>
+    <string name="hint_password1">Confirm Password</string>
     <string name="library_smoothprogressbar_author">Antoine Merle</string>
     <string name="library_smoothprogressbar_authorWebsite">https://github.com/castorflex</string>
     <string name="library_smoothprogressbar_isOpenSource">true</string>
@@ -495,6 +497,7 @@
     <string name="library_smoothprogressbar_libraryWebsite">https://github.com/castorflex/SmoothProgressBar</string>
     <string name="library_smoothprogressbar_licenseId">apache_2_0</string>
     <string name="library_smoothprogressbar_repositoryLink">https://github.com/castorflex/SmoothProgressBar.git</string>
+    <string name="logout">Logout</string>
     <string name="mr_media_route_button_content_description">Cast</string>
     <string name="mr_media_route_chooser_searching">Searching for devices\u2026</string>
     <string name="mr_media_route_chooser_title">Connect to device</string>

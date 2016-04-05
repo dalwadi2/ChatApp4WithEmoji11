@@ -8,6 +8,7 @@ import android.net.wifi.WifiInfo;
 import android.net.wifi.WifiManager;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -37,6 +38,8 @@ public class RegisterActivity extends AppCompatActivity {
     private Button btnLinkToLogin;
     private EditText inputEmail;
     private EditText inputPassword;
+    private EditText inputPassword1;
+    private EditText loginid;
     private ProgressDialog pDialog;
     String address;
 
@@ -45,13 +48,12 @@ public class RegisterActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_register);
         getSupportActionBar().hide();
-        WifiManager manager = (WifiManager) getSystemService(Context.WIFI_SERVICE);
-        WifiInfo info = manager.getConnectionInfo();
-        address = info.getMacAddress();
 
 
         inputEmail = (EditText) findViewById(R.id.email);
         inputPassword = (EditText) findViewById(R.id.password);
+        inputPassword1 = (EditText) findViewById(R.id.password1);
+        loginid = (EditText) findViewById(R.id.loginid);
         btnRegister = (Button) findViewById(R.id.btnRegister);
         btnLinkToLogin = (Button) findViewById(R.id.btnLinkToLoginScreen);
 
@@ -62,9 +64,25 @@ public class RegisterActivity extends AppCompatActivity {
             public void onClick(View view) {
                 String email = inputEmail.getText().toString().trim();
                 String password = inputPassword.getText().toString().trim();
+                String password1 = inputPassword1.getText().toString().trim();
+                String loginid1 = loginid.getText().toString().trim();
+                if (!email.isEmpty() && !password.isEmpty() && !password1.isEmpty() && !loginid1.isEmpty()) {
+                    if (password.equals(password1)) {
+                        if(password.length()>7){
+                            registerUser(loginid1, email, password);
+                        }
+                        else
+                        {
+                            Toast.makeText(getApplicationContext(),
+                                    "Password lenght should be greater than 8", Toast.LENGTH_LONG)
+                                    .show();
+                        }
+                    } else {
+                        Toast.makeText(getApplicationContext(),
+                                "Password and Confirm Password do not match", Toast.LENGTH_LONG)
+                                .show();
+                    }
 
-                if (!email.isEmpty() && !password.isEmpty()) {
-                    registerUser(email, password);
                 } else {
                     Toast.makeText(getApplicationContext(),
                             "Please enter your details!", Toast.LENGTH_LONG)
@@ -86,7 +104,7 @@ public class RegisterActivity extends AppCompatActivity {
     }
 
 
-    private void registerUser(final String email, final String password) {
+    private void registerUser(final String uid, final String email, final String password) {
         String tag_string_req = "req_register";
 
         pDialog.setMessage("Registering ...");
@@ -102,8 +120,8 @@ public class RegisterActivity extends AppCompatActivity {
 
                 try {
                     JSONObject jObj = new JSONObject(response);
-                    boolean error = jObj.getBoolean("error");
-                    if (!error) {
+
+                    if (!jObj.has("errors")) {
                         Toast.makeText(getApplicationContext(), "User successfully registered. Try login now!", Toast.LENGTH_LONG).show();
 
                         Intent intent = new Intent(
@@ -113,7 +131,7 @@ public class RegisterActivity extends AppCompatActivity {
                         finish();
                     } else {
 
-                        String errorMsg = jObj.getString("error_msg");
+                        String errorMsg = jObj.getString("LoginId or Email already exists");
                         Toast.makeText(getApplicationContext(),
                                 errorMsg, Toast.LENGTH_LONG).show();
                     }
@@ -126,7 +144,7 @@ public class RegisterActivity extends AppCompatActivity {
 
             @Override
             public void onErrorResponse(VolleyError error) {
-//                Log.e(TAG, "Registration Error: " + error.getMessage());
+               Log.e(TAG, "Registration Error: " + error.getMessage());
                 ErrorSnackBar();
                 hideDialog();
             }
@@ -136,7 +154,7 @@ public class RegisterActivity extends AppCompatActivity {
             protected Map<String, String> getParams() {
                 // Posting params to register url
                 Map<String, String> params = new HashMap<String, String>();
-                params.put("name", address);
+                params.put("login", uid);
                 params.put("email", email);
                 params.put("password", password);
 

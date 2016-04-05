@@ -62,7 +62,8 @@ public class LoginActivity extends AppCompatActivity {
                 password = inputPassword.getText().toString().trim();
 
                 if (!email.isEmpty() && !password.isEmpty()) {
-                    checkLogin(email, password);
+//                    checkLogin(email, password);
+                    startActivity(new Intent(LoginActivity.this, SplashActivity.class));
                 } else {
                     Toast.makeText(getApplicationContext(),
                             "Please enter the credentials!", Toast.LENGTH_LONG)
@@ -92,7 +93,7 @@ public class LoginActivity extends AppCompatActivity {
         }
     }
 
-    private void checkLogin(final String email, final String password) {
+   /* private void checkLogin(final String email, final String password) {
         String tag_string_req = "req_login";
 
         pDialog.setMessage("Logging in ...");
@@ -180,7 +181,7 @@ public class LoginActivity extends AppCompatActivity {
                 .show(LoginActivity.this);
     }
 
-    private void showDialog() {
+*/    private void showDialog() {
         if (!pDialog.isShowing())
             pDialog.show();
     }

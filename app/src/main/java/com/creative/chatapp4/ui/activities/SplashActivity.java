@@ -17,6 +17,10 @@ import com.quickblox.users.model.QBUser;
 
 public class SplashActivity extends Activity {
 
+
+    public static String USER_LOGIN;
+    public static String USER_PASSWORD;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -25,13 +29,18 @@ public class SplashActivity extends Activity {
         // Login to REST API
         //
         SharedPreferences sharedPreferences = getSharedPreferences("MyAppData", Context.MODE_PRIVATE);
-        if (sharedPreferences.getString("userId", "").equalsIgnoreCase("") && sharedPreferences.getString("password", "").equalsIgnoreCase("")) {
+
+        USER_LOGIN = sharedPreferences.getString("userId", "");
+        USER_PASSWORD = sharedPreferences.getString("password", "");
+
+        if (USER_LOGIN.equalsIgnoreCase("") && USER_PASSWORD.equalsIgnoreCase("")) {
             startActivity(new Intent(SplashActivity.this, LoginActivity.class));
             finish();
         }
         final QBUser user = new QBUser();
-        user.setLogin(ApplicationSingleton.USER_LOGIN);
-        user.setPassword(ApplicationSingleton.USER_PASSWORD);
+
+        user.setLogin(USER_LOGIN);
+        user.setPassword(USER_PASSWORD);
 
         ChatService.getInstance().login(user, new QBEntityCallback<Void>() {
 
@@ -46,8 +55,7 @@ public class SplashActivity extends Activity {
 
             @Override
             public void onError(QBResponseException errors) {
-                AlertDialog.Builder dialog = new AlertDialog.Builder(SplashActivity.this);
-                dialog.setMessage("chat login errors: " + errors).create().show();
+                startActivity(new Intent(SplashActivity.this, LoginActivity.class));
             }
         });
     }

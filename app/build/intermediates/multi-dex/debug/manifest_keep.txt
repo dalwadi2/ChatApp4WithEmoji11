@@ -3,6 +3,8 @@
     void attachBaseContext(android.content.Context);
 }
 -keep class com.creative.chatapp4.ui.activities.SplashActivity { <init>(); }
+-keep class com.creative.chatapp4.ui.activities.LoginActivity { <init>(); }
+-keep class com.creative.chatapp4.ui.activities.RegisterActivity { <init>(); }
 -keep class com.creative.chatapp4.ui.activities.NewDialogActivity { <init>(); }
 -keep class com.creative.chatapp4.ui.activities.DialogsActivity { <init>(); }
 -keep class com.creative.chatapp4.ui.activities.ChatActivity { <init>(); }
