@@ -68,11 +68,9 @@ public class RegisterActivity extends AppCompatActivity {
                 String loginid1 = loginid.getText().toString().trim();
                 if (!email.isEmpty() && !password.isEmpty() && !password1.isEmpty() && !loginid1.isEmpty()) {
                     if (password.equals(password1)) {
-                        if(password.length()>7){
+                        if (password.length() > 7) {
                             registerUser(loginid1, email, password);
-                        }
-                        else
-                        {
+                        } else {
                             Toast.makeText(getApplicationContext(),
                                     "Password lenght should be greater than 8", Toast.LENGTH_LONG)
                                     .show();
@@ -120,7 +118,7 @@ public class RegisterActivity extends AppCompatActivity {
 
                 try {
                     JSONObject jObj = new JSONObject(response);
-
+                    Log.e("harsh", response);
                     if (!jObj.has("errors")) {
                         Toast.makeText(getApplicationContext(), "User successfully registered. Try login now!", Toast.LENGTH_LONG).show();
 
@@ -131,9 +129,9 @@ public class RegisterActivity extends AppCompatActivity {
                         finish();
                     } else {
 
-                        String errorMsg = jObj.getString("LoginId or Email already exists");
+//                        String errorMsg = jObj.getString("LoginId or Email already exists");
                         Toast.makeText(getApplicationContext(),
-                                errorMsg, Toast.LENGTH_LONG).show();
+                                "LoginId or Email already exists", Toast.LENGTH_LONG).show();
                     }
                 } catch (JSONException e) {
                     e.printStackTrace();
@@ -144,7 +142,7 @@ public class RegisterActivity extends AppCompatActivity {
 
             @Override
             public void onErrorResponse(VolleyError error) {
-               Log.e(TAG, "Registration Error: " + error.getMessage());
+                Log.e(TAG, "Registration Error: " + error.getMessage());
                 ErrorSnackBar();
                 hideDialog();
             }
@@ -178,7 +176,7 @@ public class RegisterActivity extends AppCompatActivity {
                     }
                 })
                 .duration(Snackbar.SnackbarDuration.LENGTH_INDEFINITE)
-                .swipeToDismiss(false)
+                .swipeToDismiss(true)
                 .show(RegisterActivity.this);
     }
 

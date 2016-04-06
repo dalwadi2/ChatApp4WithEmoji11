@@ -25,7 +25,7 @@ public class ApplicationSingleton extends Application {
     public static final String AUTH_SECRET = "gsVK9k9tk5RT9S5";
     public static final String ACCOUNT_KEY = "nhZ7xismqpK1aFDjxxfS";
 
-    public static final String STICKER_API_KEY = "fd096c8c6a5b7ced8ccd7dfaeaa0719c";
+    public static final String STICKER_API_KEY = "878ef1d920aaf2de14f87483ffc0aed0";
 
     public static String USER_LOGIN = "dalwadi21";
     public static String USER_PASSWORD = "harsh007";

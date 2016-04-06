@@ -8,7 +8,6 @@
 -keep class com.creative.chatapp4.ui.activities.NewDialogActivity { <init>(); }
 -keep class com.creative.chatapp4.ui.activities.DialogsActivity { <init>(); }
 -keep class com.creative.chatapp4.ui.activities.ChatActivity { <init>(); }
--keep class com.creative.chatapp4.MainActivity { <init>(); }
 -keep class com.creative.chatapp4.pushnotifications.GcmBroadcastReceiver { <init>(); }
 -keep class com.creative.chatapp4.pushnotifications.GCMIntentService { <init>(); }
 -keep class vc908.stickerfactory.provider.StickersProvider { <init>(); }

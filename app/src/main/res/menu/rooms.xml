@@ -1,8 +1,10 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:chat="http://schemas.android.com/apk/res-auto">
-
-    <item android:id="@+id/action_add"
-        android:title="New Chat"
-        android:icon="@drawable/ic_action_new"
-        chat:showAsAction="ifRoom" />
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.creative.chatapp4.MainActivity">
+    <item
+        android:id="@+id/action_out"
+        android:orderInCategory="100"
+        android:title="@string/logout"
+        app:showAsAction="never" />
 </menu>

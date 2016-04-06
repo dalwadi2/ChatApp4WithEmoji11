@@ -19,15 +19,21 @@ import com.android.volley.VolleyError;
 import com.android.volley.toolbox.StringRequest;
 import com.creative.chatapp4.ApplicationSingleton;
 import com.creative.chatapp4.R;
+import com.creative.chatapp4.core.ChatService;
 import com.creative.chatapp4.utils.AppConfig;
+import com.google.android.gms.wallet.fragment.WalletFragmentStyle;
 import com.nispok.snackbar.Snackbar;
 import com.nispok.snackbar.enums.SnackbarType;
 import com.nispok.snackbar.listeners.ActionClickListener;
+import com.quickblox.core.QBEntityCallback;
+import com.quickblox.core.exception.QBResponseException;
+import com.quickblox.users.model.QBUser;
 
 import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.util.HashMap;
+import java.util.Locale;
 import java.util.Map;
 
 public class LoginActivity extends AppCompatActivity {
@@ -57,17 +63,48 @@ public class LoginActivity extends AppCompatActivity {
         btnLogin.setOnClickListener(new View.OnClickListener() {
 
             public void onClick(View view) {
+                pDialog.setMessage("Loging in ...");
+                showDialog();
                 hideKeyboard();
                 email = inputEmail.getText().toString().trim();
                 password = inputPassword.getText().toString().trim();
 
                 if (!email.isEmpty() && !password.isEmpty()) {
 //                    checkLogin(email, password);
-                    startActivity(new Intent(LoginActivity.this, SplashActivity.class));
+
+                    final QBUser user = new QBUser();
+
+                    user.setLogin(email);
+                    user.setPassword(password);
+
+                    ChatService.getInstance().login(user, new QBEntityCallback<Void>() {
+
+                        @Override
+                        public void onSuccess(Void result, Bundle bundle) {
+                            // Go to Dialogs screen
+                            //
+                            hideDialog();
+                            SharedPreferences sharedPreferences = getSharedPreferences("MyAppData", Context.MODE_PRIVATE);
+                            SharedPreferences.Editor editor = sharedPreferences.edit();
+                            editor.putString("userId", email);
+                            editor.putString("password", password);
+                            editor.commit();
+                            Intent intent = new Intent(LoginActivity.this, DialogsActivity.class);
+                            startActivity(intent);
+                            finish();
+                        }
+
+                        @Override
+                        public void onError(QBResponseException errors) {
+                            Toast.makeText(LoginActivity.this, "LoginId or Password is Incorrect", Toast.LENGTH_LONG).show();
+                            hideDialog();
+                        }
+                    });
                 } else {
                     Toast.makeText(getApplicationContext(),
                             "Please enter the credentials!", Toast.LENGTH_LONG)
                             .show();
+                    hideDialog();
                 }
             }
 
@@ -93,95 +130,96 @@ public class LoginActivity extends AppCompatActivity {
         }
     }
 
-   /* private void checkLogin(final String email, final String password) {
-        String tag_string_req = "req_login";
+    /* private void checkLogin(final String email, final String password) {
+         String tag_string_req = "req_login";
 
-        pDialog.setMessage("Logging in ...");
-        showDialog();
+         pDialog.setMessage("Logging in ...");
+         showDialog();
 
-        StringRequest strReq = new StringRequest(Request.Method.POST,
-                AppConfig.URL_LOGIN, new Response.Listener<String>() {
+         StringRequest strReq = new StringRequest(Request.Method.POST,
+                 AppConfig.URL_LOGIN, new Response.Listener<String>() {
 
-            @Override
-            public void onResponse(String response) {
-//                Log.d(TAG, "Login Response: " + response.toString());
-                hideDialog();
+             @Override
+             public void onResponse(String response) {
+ //                Log.d(TAG, "Login Response: " + response.toString());
+                 hideDialog();
 
-                try {
-                    JSONObject jObj = new JSONObject(response);
-                    boolean error = jObj.getBoolean("error");
+                 try {
+                     JSONObject jObj = new JSONObject(response);
+                     boolean error = jObj.getBoolean("error");
 
-                    if (!error) {
-                        // user successfully logged in
-                        // Create login session
-                        // Launch main activity
-                        SharedPreferences sharedPreferences = getSharedPreferences("MyAppData", Context.MODE_PRIVATE);
-                        SharedPreferences.Editor editor = sharedPreferences.edit();
-                        editor.putString("userId", email);
-                        editor.putString("password", password);
-                        editor.apply();
-//                        Log.e(TAG, "onResponse: " + jObj.getString("uid"));
-                        Intent intent = new Intent(LoginActivity.this,
-                                SplashActivity.class);
-                        startActivity(intent);
-                        finish();
-                    } else {
-                        // Error in login. Get the error message
-                        String errorMsg = jObj.getString("error_msg");
-                        Toast.makeText(getApplicationContext(),
-                                errorMsg, Toast.LENGTH_LONG).show();
-                    }
-                } catch (JSONException e) {
-                    // JSON error
-                    e.printStackTrace();
-                    Toast.makeText(getApplicationContext(), "Json error: " + e.getMessage(), Toast.LENGTH_LONG).show();
-                }
+                     if (!error) {
+                         // user successfully logged in
+                         // Create login session
+                         // Launch main activity
+                         SharedPreferences sharedPreferences = getSharedPreferences("MyAppData", Context.MODE_PRIVATE);
+                         SharedPreferences.Editor editor = sharedPreferences.edit();
+                         editor.putString("userId", email);
+                         editor.putString("password", password);
+                         editor.apply();
+ //                        Log.e(TAG, "onResponse: " + jObj.getString("uid"));
+                         Intent intent = new Intent(LoginActivity.this,
+                                 SplashActivity.class);
+                         startActivity(intent);
+                         finish();
+                     } else {
+                         // Error in login. Get the error message
+                         String errorMsg = jObj.getString("error_msg");
+                         Toast.makeText(getApplicationContext(),
+                                 errorMsg, Toast.LENGTH_LONG).show();
+                     }
+                 } catch (JSONException e) {
+                     // JSON error
+                     e.printStackTrace();
+                     Toast.makeText(getApplicationContext(), "Json error: " + e.getMessage(), Toast.LENGTH_LONG).show();
+                 }
 
-            }
-        }, new Response.ErrorListener() {
+             }
+         }, new Response.ErrorListener() {
 
-            @Override
-            public void onErrorResponse(VolleyError error) {
-//                Log.e(TAG, "Login Error: " + error.getMessage());
-                ErrorSnackBar();
-                hideDialog();
-            }
-        }) {
+             @Override
+             public void onErrorResponse(VolleyError error) {
+ //                Log.e(TAG, "Login Error: " + error.getMessage());
+                 ErrorSnackBar();
+                 hideDialog();
+             }
+         }) {
 
-            @Override
-            protected Map<String, String> getParams() {
-                // Posting parameters to login url
-                Map<String, String> params = new HashMap<String, String>();
+             @Override
+             protected Map<String, String> getParams() {
+                 // Posting parameters to login url
+                 Map<String, String> params = new HashMap<String, String>();
 
-                params.put("email", email);
-                params.put("password", password);
+                 params.put("email", email);
+                 params.put("password", password);
 
-                return params;
-            }
+                 return params;
+             }
 
-        };
-        // Adding request to request queue
-        ApplicationSingleton.getInstance().addToRequestQueue(strReq, tag_string_req);
-    }
+         };
+         // Adding request to request queue
+         ApplicationSingleton.getInstance().addToRequestQueue(strReq, tag_string_req);
+     }
 
-    private void ErrorSnackBar() {
-        Snackbar.with(LoginActivity.this)
-                .type(SnackbarType.MULTI_LINE)
-                .text("Check Internet Connection")
-                .actionLabel("Done")
-                .actionColor(Color.CYAN)
-                .actionListener(new ActionClickListener() {
-                    @Override
-                    public void onActionClicked(Snackbar snackbar) {
-                        startActivity(new Intent(android.provider.Settings.ACTION_WIRELESS_SETTINGS));
-                    }
-                })
-                .duration(Snackbar.SnackbarDuration.LENGTH_INDEFINITE)
-                .swipeToDismiss(false)
-                .show(LoginActivity.this);
-    }
+     private void ErrorSnackBar() {
+         Snackbar.with(LoginActivity.this)
+                 .type(SnackbarType.MULTI_LINE)
+                 .text("Check Internet Connection")
+                 .actionLabel("Done")
+                 .actionColor(Color.CYAN)
+                 .actionListener(new ActionClickListener() {
+                     @Override
+                     public void onActionClicked(Snackbar snackbar) {
+                         startActivity(new Intent(android.provider.Settings.ACTION_WIRELESS_SETTINGS));
+                     }
+                 })
+                 .duration(Snackbar.SnackbarDuration.LENGTH_INDEFINITE)
+                 .swipeToDismiss(false)
+                 .show(LoginActivity.this);
+     }
 
-*/    private void showDialog() {
+ */
+    private void showDialog() {
         if (!pDialog.isShowing())
             pDialog.show();
     }

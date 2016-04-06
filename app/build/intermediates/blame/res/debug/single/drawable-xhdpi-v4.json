@@ -1,7 +1,7 @@
 [
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sp_ic_coin.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable-xhdpi\\sp_ic_coin.png"
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xhdpi\\sp_ic_coin.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
@@ -165,7 +165,7 @@
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sp_ic_stickers.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable-xhdpi\\sp_ic_stickers.png"
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xhdpi\\sp_ic_stickers.png"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
@@ -297,7 +297,7 @@
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sp_empty_recent_default.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable-xhdpi\\sp_empty_recent_default.png"
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xhdpi\\sp_empty_recent_default.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\powered_by_google_dark.png",
@@ -313,7 +313,7 @@
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sp_dialog_subscription_banner.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable-xhdpi\\sp_dialog_subscription_banner.png"
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xhdpi\\sp_dialog_subscription_banner.png"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_emoji_places_light_activated.png",
@@ -361,7 +361,7 @@
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sp_ic_recent.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable-xhdpi\\sp_ic_recent.png"
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xhdpi\\sp_ic_recent.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_route_on_mono_dark.png",
@@ -408,8 +408,12 @@
         "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable-xhdpi\\sp_ic_stickers.png"
     },
     {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_name_exit.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_name_exit.png"
+    },
+    {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sp_ic_notification.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable-xhdpi\\sp_ic_notification.png"
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xhdpi\\sp_ic_notification.png"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\orca_composer_popup_pressed.png",
@@ -445,7 +449,7 @@
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sp_ic_delete.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable-xhdpi\\sp_ic_delete.png"
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xhdpi\\sp_ic_delete.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
@@ -481,7 +485,7 @@
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sp_pack_info_message.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable-xhdpi\\sp_pack_info_message.png"
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xhdpi\\sp_pack_info_message.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_route_off_mono_dark.png",
@@ -541,7 +545,7 @@
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sp_sticker_placeholder_default.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable-xhdpi\\sp_sticker_placeholder_default.png"
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xhdpi\\sp_sticker_placeholder_default.png"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_cast_disabled_light.png",
@@ -561,7 +565,7 @@
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sp_ic_backspace.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable-xhdpi\\sp_ic_backspace.png"
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xhdpi\\sp_ic_backspace.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
@@ -873,7 +877,7 @@
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sp_ic_settings.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable-xhdpi\\sp_ic_settings.png"
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xhdpi\\sp_ic_settings.png"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_recent.png",
@@ -885,11 +889,11 @@
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sp_ic_reorder.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable-xhdpi\\sp_ic_reorder.png"
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xhdpi\\sp_ic_reorder.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sp_ic_keyboard.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable-xhdpi\\sp_ic_keyboard.png"
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xhdpi\\sp_ic_keyboard.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_emoji_recent_light_normal.png",
@@ -1325,7 +1329,7 @@
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sp_ic_add.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable-xhdpi\\sp_ic_add.png"
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xhdpi\\sp_ic_add.png"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_emoji_recent_light_activated.png",
@@ -1381,7 +1385,7 @@
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sp_tab_placeholder_default.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable-xhdpi\\sp_tab_placeholder_default.png"
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xhdpi\\sp_tab_placeholder_default.png"
     },
     {
         "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_emoji_people_light_activated.png",
@@ -1429,6 +1433,6 @@
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sp_ic_emoji.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.13\\res\\drawable-xhdpi\\sp_ic_emoji.png"
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xhdpi\\sp_ic_emoji.png"
     }
 ]

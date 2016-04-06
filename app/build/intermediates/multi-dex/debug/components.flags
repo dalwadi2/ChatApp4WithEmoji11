@@ -41,10 +41,6 @@
     <init>();
 }
 
--keep class com.creative.chatapp4.MainActivity {
-    <init>();
-}
-
 -keep class com.creative.chatapp4.pushnotifications.GcmBroadcastReceiver {
     <init>();
 }

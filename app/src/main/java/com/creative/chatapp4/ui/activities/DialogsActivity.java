@@ -3,9 +3,13 @@ package com.creative.chatapp4.ui.activities;
 import android.app.AlertDialog;
 import android.content.BroadcastReceiver;
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.IntentFilter;
+import android.content.SharedPreferences;
 import android.os.Bundle;
+import android.support.design.widget.FloatingActionButton;
+import android.support.design.widget.Snackbar;
 import android.support.v4.content.LocalBroadcastManager;
 import android.util.Log;
 import android.view.Menu;
@@ -15,6 +19,7 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.ProgressBar;
+import android.widget.Toast;
 
 import com.creative.chatapp4.R;
 import com.creative.chatapp4.core.ChatService;
@@ -55,12 +60,21 @@ public class DialogsActivity extends BaseActivity {
 
         // Get dialogs if the session is active
         //
-        if(isSessionActive()){
+        if (isSessionActive()) {
             getDialogs();
         }
+        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
+        fab.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(DialogsActivity.this, NewDialogActivity.class);
+                startActivity(intent);
+                finish();
+            }
+        });
     }
 
-    private void getDialogs(){
+    private void getDialogs() {
         progressBar.setVisibility(View.VISIBLE);
 
         // Get dialogs
@@ -86,7 +100,7 @@ public class DialogsActivity extends BaseActivity {
     }
 
 
-    void buildListView(List<QBDialog> dialogs){
+    void buildListView(List<QBDialog> dialogs) {
         final DialogsAdapter adapter = new DialogsAdapter(dialogs, DialogsActivity.this);
         dialogsListView.setAdapter(adapter);
 
@@ -125,13 +139,43 @@ public class DialogsActivity extends BaseActivity {
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         int id = item.getItemId();
-        if (id == R.id.action_add) {
+        if (id == R.id.action_out) {
 
             // go to New Dialog activity
             //
-            Intent intent = new Intent(DialogsActivity.this, NewDialogActivity.class);
-            startActivity(intent);
-            finish();
+            AlertDialog.Builder alertDialog = new AlertDialog.Builder(DialogsActivity.this);
+
+            // Setting Dialog Title
+            alertDialog.setTitle("Confirm Logout...");
+
+            // Setting Dialog Message
+            alertDialog.setMessage("Are you sure you want logout?");
+
+            // Setting Icon to Dialog
+            alertDialog.setIcon(R.drawable.ic_action_name_exit);
+
+            // Setting Positive "Yes" Button
+            alertDialog.setPositiveButton("YES", new DialogInterface.OnClickListener() {
+                public void onClick(DialogInterface dialog, int which) {
+
+                    SharedPreferences sharedPreferences = getSharedPreferences("MyAppData", Context.MODE_PRIVATE);
+                    SharedPreferences.Editor editor = sharedPreferences.edit();
+                    editor.clear();
+                    editor.apply();
+                    startActivity(new Intent(DialogsActivity.this, LoginActivity.class));
+                    finish();
+                }
+            });
+
+            // Setting Negative "NO" Button
+            alertDialog.setNegativeButton("NO", new DialogInterface.OnClickListener() {
+                public void onClick(DialogInterface dialog, int which) {
+                    dialog.cancel();
+                }
+            });
+
+            // Showing Alert Message
+            alertDialog.show();
             return true;
         }
         return super.onOptionsItemSelected(item);

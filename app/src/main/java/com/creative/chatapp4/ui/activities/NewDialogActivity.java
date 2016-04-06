@@ -78,7 +78,7 @@ public class NewDialogActivity extends BaseActivity implements QBEntityCallback<
                     @Override
                     public void onError(QBResponseException errors) {
                         AlertDialog.Builder dialog = new AlertDialog.Builder(NewDialogActivity.this);
-                        dialog.setMessage("dialog creation errors: " + errors).create().show();
+                        dialog.setMessage("Chat room can't be created,please try again." ).create().show();
                     }
                 });
             }

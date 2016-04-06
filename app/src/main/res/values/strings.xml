@@ -1,16 +1,19 @@
 <resources>
-    <string name="app_name">ChatApp4</string>
+    <string name="app_name">GCMChatApp</string>
     <string name="action_settings">Settings</string>
 
 
-    <string name="hint_email">Email</string>
+    <string name="hint_email">LoginID</string>
     <string name="hint_Loginid">Login ID</string>
+    <string name="hint_emailid">Email ID</string>
     <string name="hint_password">Password</string>
     <string name="hint_password1">Confirm Password</string>
     <string name="hint_name">Fullname</string>
     <string name="btn_login">LOGIN</string>
+    <string name="btn_reset">Reset Password</string>
     <string name="btn_register">REGISTER</string>
     <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login1">Password Remembered Login now.</string>
     <string name="btn_link_to_login">Already registred! Login Me.</string>
     <string name="welcome">Welcome</string>
     <string name="btn_logout">LOGOUT</string>

@@ -6,9 +6,9 @@ package com.creative.chatapp4.utils;
 public class AppConfig {
 
     // Server user login url
-    public static String URL_LOGIN = "http://nearely.com/nearely/login/login.php";
+    public static String URL_RESET = "http://creativebuzz.honor.es/quickbox/signUp.php";
 
     // Server user register url
-    public static String URL_REGISTER = "http://192.168.56.1/quickbox/signUp.php";
+    public static String URL_REGISTER = "http://vakratundasystem.in/harsh/signUp.php";
 
 }

@@ -6,6 +6,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
+import android.widget.Toast;
 
 import com.creative.chatapp4.ApplicationSingleton;
 import com.creative.chatapp4.R;
@@ -37,26 +38,29 @@ public class SplashActivity extends Activity {
             startActivity(new Intent(SplashActivity.this, LoginActivity.class));
             finish();
         }
-        final QBUser user = new QBUser();
+        else {
+            final QBUser user = new QBUser();
 
-        user.setLogin(USER_LOGIN);
-        user.setPassword(USER_PASSWORD);
+            user.setLogin(USER_LOGIN);
+            user.setPassword(USER_PASSWORD);
 
-        ChatService.getInstance().login(user, new QBEntityCallback<Void>() {
+            ChatService.getInstance().login(user, new QBEntityCallback<Void>() {
 
-            @Override
-            public void onSuccess(Void result, Bundle bundle) {
-                // Go to Dialogs screen
-                //
-                Intent intent = new Intent(SplashActivity.this, DialogsActivity.class);
-                startActivity(intent);
-                finish();
-            }
+                @Override
+                public void onSuccess(Void result, Bundle bundle) {
+                    // Go to Dialogs screen
+                    //
+                    Intent intent = new Intent(SplashActivity.this, DialogsActivity.class);
+                    startActivity(intent);
+                    finish();
+                }
 
-            @Override
-            public void onError(QBResponseException errors) {
-                startActivity(new Intent(SplashActivity.this, LoginActivity.class));
-            }
-        });
+                @Override
+                public void onError(QBResponseException errors) {
+                    startActivity(new Intent(SplashActivity.this, LoginActivity.class));
+                    finish();
+                }
+            });
+        }
     }
 }

@@ -97,6 +97,7 @@ android/support/v7/widget/RecyclerView$OnItemTouchListener.class
 android/support/design/widget/Snackbar$SnackbarLayout$OnAttachStateChangeListener.class
 android/support/v7/widget/RecyclerView$Recycler.class
 vc908/stickerfactory/R$drawable.class
+com/creative/chatapp4/ui/activities/DialogsActivity$7.class
 android/support/v4/view/ViewCompat$EclairMr1ViewCompatImpl.class
 retrofit2/http/FormUrlEncoded.class
 com/nispok/snackbar/Snackbar.class
@@ -190,7 +191,6 @@ com/google/android/gms/internal/zzgd.class
 com/quickblox/core/QBEntityCallbackImpl.class
 com/google/android/gms/internal/zzem.class
 vc908/stickerfactory/interceptors/a.class
-com/creative/chatapp4/MainActivity.class
 com/quickblox/core/error/QBErrorWithBase.class
 android/support/design/widget/TabLayout$TabView.class
 com/google/android/gms/common/GooglePlayServicesUtil.class
@@ -826,7 +826,6 @@ com/google/android/gms/ads/internal/purchase/zzd.class
 android/support/multidex/MultiDex$V14.class
 com/google/android/gms/ads/internal/overlay/zzq.class
 com/google/android/gms/ads/internal/overlay/zzd$zzd.class
-com/creative/chatapp4/MainActivity$1.class
 org/jivesoftware/smack/XMPPConnection.class
 com/google/android/gms/internal/zzdm$zzd.class
 com/google/android/gms/games/Player.class
@@ -885,6 +884,7 @@ com/handmark/pulltorefresh/library/PullToRefreshListView.class
 org/jivesoftware/smack/AbstractXMPPConnection.class
 android/support/v7/widget/RecyclerView$RecyclerViewDataObserver.class
 com/google/android/gms/wearable/DataApi$GetFdForAssetResult.class
+com/creative/chatapp4/ui/activities/DialogsActivity$6.class
 android/support/v4/view/ViewCompat.class
 com/bumptech/glide/GifRequestBuilder.class
 com/bumptech/glide/load/model/stream/StreamByteArrayLoader.class
@@ -986,6 +986,7 @@ com/google/android/gms/ads/internal/zza.class
 vc908/stickerfactory/advrecyclerview/animator/b.class
 com/creative/chatapp4/ui/activities/RegisterActivity$5.class
 com/google/android/gms/internal/zziy.class
+com/creative/chatapp4/ui/activities/DialogsActivity$5.class
 android/support/design/widget/CoordinatorLayoutInsetsHelper.class
 android/support/annotation/RequiresPermission$Write.class
 vc908/stickerfactory/utils/Utils.class
