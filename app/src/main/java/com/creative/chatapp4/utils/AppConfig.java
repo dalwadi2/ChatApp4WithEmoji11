@@ -6,7 +6,7 @@ package com.creative.chatapp4.utils;
 public class AppConfig {
 
     // Server user login url
-    public static String URL_RESET = "http://creativebuzz.honor.es/quickbox/signUp.php";
+    public static String URL_RESET = "http://vakratundasystem.in/harsh/forgetPassword.php";
 
     // Server user register url
     public static String URL_REGISTER = "http://vakratundasystem.in/harsh/signUp.php";
