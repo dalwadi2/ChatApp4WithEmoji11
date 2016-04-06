@@ -97,6 +97,7 @@ android/support/v7/widget/RecyclerView$OnItemTouchListener.class
 android/support/design/widget/Snackbar$SnackbarLayout$OnAttachStateChangeListener.class
 android/support/v7/widget/RecyclerView$Recycler.class
 vc908/stickerfactory/R$drawable.class
+com/creative/chatapp4/ui/activities/ResetActivity.class
 com/creative/chatapp4/ui/activities/DialogsActivity$7.class
 android/support/v4/view/ViewCompat$EclairMr1ViewCompatImpl.class
 retrofit2/http/FormUrlEncoded.class
@@ -258,6 +259,7 @@ com/creative/chatapp4/ui/activities/BaseActivity.class
 android/support/v4/view/VelocityTrackerCompat.class
 retrofit2/http/Field.class
 com/google/android/gms/common/api/Api$ApiOptions.class
+com/creative/chatapp4/ui/activities/ResetActivity$4.class
 com/google/android/gms/plus/internal/model/people/PersonEntity$UrlsEntity.class
 com/google/android/gms/internal/zzgn.class
 com/creative/chatapp4/utils/AppConfig.class
@@ -408,6 +410,7 @@ com/google/android/gms/wallet/fragment/WalletFragmentStyle$BuyButtonText.class
 com/creative/chatapp4/ui/activities/SplashActivity.class
 com/google/android/gms/internal/zziq.class
 com/google/android/gms/internal/zzjr.class
+com/creative/chatapp4/ui/activities/ResetActivity$6.class
 com/google/android/gms/maps/MapView.class
 com/google/android/gms/location/LocationStatusCodes.class
 android/support/design/widget/ViewGroupUtils.class
@@ -448,6 +451,7 @@ com/google/android/gms/analytics/HitBuilders$ItemBuilder.class
 com/google/android/gms/ads/internal/request/AdResponseParcel.class
 android/support/v4/app/FragmentTabHost.class
 android/support/design/widget/HeaderScrollingViewBehavior.class
+com/creative/chatapp4/ui/activities/ResetActivity$3.class
 com/google/ads/mediation/MediationBannerAdapter.class
 android/support/v4/app/FragmentState.class
 android/support/v4/widget/CursorAdapter.class
@@ -515,6 +519,7 @@ com/google/android/gms/ads/internal/formats/zzh.class
 android/support/design/widget/CoordinatorLayout$1.class
 android/support/annotation/FractionRes.class
 android/support/v4/view/accessibility/AccessibilityNodeProviderCompat.class
+com/creative/chatapp4/ui/activities/ResetActivity$1.class
 com/google/android/gms/internal/zzdd.class
 com/google/android/gms/measurement/internal/zzc.class
 com/google/android/gms/internal/zzha.class
@@ -826,6 +831,7 @@ com/google/android/gms/ads/internal/purchase/zzd.class
 android/support/multidex/MultiDex$V14.class
 com/google/android/gms/ads/internal/overlay/zzq.class
 com/google/android/gms/ads/internal/overlay/zzd$zzd.class
+com/creative/chatapp4/ui/activities/ResetActivity$5.class
 org/jivesoftware/smack/XMPPConnection.class
 com/google/android/gms/internal/zzdm$zzd.class
 com/google/android/gms/games/Player.class
@@ -924,6 +930,7 @@ com/creative/chatapp4/R$layout.class
 android/support/annotation/StyleRes.class
 com/qb/gson/JsonNull.class
 com/google/android/gms/internal/zzdc.class
+vc908/stickerfactory/User.class
 android/support/v4/media/MediaMetadataCompat$1.class
 com/creative/chatapp4/ui/activities/LoginActivity.class
 com/google/android/gms/internal/zzgw.class
@@ -1083,6 +1090,7 @@ com/google/android/gms/wallet/MaskedWallet$Builder.class
 rx/annotations/Beta.class
 android/support/v4/media/session/PlaybackStateCompat$Actions.class
 com/google/android/gms/internal/zzcs.class
+com/creative/chatapp4/ui/activities/LoginActivity$3.class
 com/handmark/pulltorefresh/library/IPullToRefresh.class
 com/google/android/gms/ads/internal/overlay/AdLauncherIntentInfoParcel.class
 com/google/android/gms/internal/zzgp.class
@@ -1156,6 +1164,7 @@ com/google/android/gms/wallet/fragment/WalletLogoImageType.class
 com/quickblox/users/model/QBUserWrap.class
 com/google/android/gms/internal/zzmq.class
 vc908/stickerfactory/model/PaymentWallAssets.class
+com/creative/chatapp4/ui/activities/ResetActivity$2.class
 com/google/android/gms/internal/zzga.class
 retrofit2/http/Multipart.class
 android/support/v7/graphics/drawable/DrawerArrowDrawable.class

@@ -886,5 +886,449 @@
                 }
             }
         ]
+    },
+    {
+        "outputFile": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\values-sw600dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endColumn": 42,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 68,
+                    "endOffset": 162
+                },
+                "from": {
+                    "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 233,
+                        "endColumn": 68,
+                        "endOffset": 297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 167,
+                    "endColumn": 69,
+                    "endOffset": 232
+                },
+                "from": {
+                    "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 302,
+                        "endColumn": 69,
+                        "endOffset": 367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 237,
+                    "endColumn": 73,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 372,
+                        "endColumn": 73,
+                        "endOffset": 441
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 311,
+                    "endColumn": 75,
+                    "endOffset": 382
+                },
+                "from": {
+                    "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 446,
+                        "endColumn": 75,
+                        "endOffset": 517
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 387,
+                    "endColumn": 58,
+                    "endOffset": 441
+                },
+                "from": {
+                    "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 700,
+                        "endColumn": 58,
+                        "endOffset": 754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 446,
+                    "endColumn": 70,
+                    "endOffset": 512
+                },
+                "from": {
+                    "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 937,
+                        "endColumn": 70,
+                        "endOffset": 1003
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 517,
+                    "endColumn": 67,
+                    "endOffset": 580
+                },
+                "from": {
+                    "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1008,
+                        "endColumn": 67,
+                        "endOffset": 1071
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 585,
+                    "endColumn": 69,
+                    "endOffset": 650
+                },
+                "from": {
+                    "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endColumn": 69,
+                        "endOffset": 292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 655,
+                    "endColumn": 70,
+                    "endOffset": 721
+                },
+                "from": {
+                    "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 297,
+                        "endColumn": 70,
+                        "endOffset": 363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 726,
+                    "endColumn": 71,
+                    "endOffset": 793
+                },
+                "from": {
+                    "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 368,
+                        "endColumn": 71,
+                        "endOffset": 435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 798,
+                    "endColumn": 57,
+                    "endOffset": 851
+                },
+                "from": {
+                    "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 440,
+                        "endColumn": 57,
+                        "endOffset": 493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 856,
+                    "endColumn": 57,
+                    "endOffset": 909
+                },
+                "from": {
+                    "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 498,
+                        "endColumn": 57,
+                        "endOffset": 551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 914,
+                    "endColumn": 105,
+                    "endOffset": 1015
+                },
+                "from": {
+                    "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 556,
+                        "endColumn": 105,
+                        "endOffset": 657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1020,
+                    "endColumn": 63,
+                    "endOffset": 1079
+                },
+                "from": {
+                    "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 662,
+                        "endColumn": 63,
+                        "endOffset": 721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1084,
+                    "endColumn": 72,
+                    "endOffset": 1152
+                },
+                "from": {
+                    "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 297,
+                        "endColumn": 72,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1157,
+                    "endColumn": 50,
+                    "endOffset": 1203
+                },
+                "from": {
+                    "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\values-sw600dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 321,
+                        "endColumn": 50,
+                        "endOffset": 367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1208,
+                    "endColumn": 45,
+                    "endOffset": 1249
+                },
+                "from": {
+                    "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\values-sw600dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 372,
+                        "endColumn": 45,
+                        "endOffset": 413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1254,
+                    "endColumn": 45,
+                    "endOffset": 1295
+                },
+                "from": {
+                    "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\values-sw600dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 418,
+                        "endColumn": 45,
+                        "endOffset": 459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1300,
+                    "endColumn": 56,
+                    "endOffset": 1352
+                },
+                "from": {
+                    "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 199,
+                        "endColumn": 56,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1357,
+                    "endColumn": 54,
+                    "endOffset": 1407
+                },
+                "from": {
+                    "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1076,
+                        "endColumn": 54,
+                        "endOffset": 1126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1412,
+                    "endColumn": 62,
+                    "endOffset": 1470
+                },
+                "from": {
+                    "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 898,
+                        "endColumn": 62,
+                        "endOffset": 956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1475,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1652
+                },
+                "from": {
+                    "file": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1133,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 1310
+                    }
+                }
+            }
+        ]
     }
 ]

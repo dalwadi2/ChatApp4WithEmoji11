@@ -1,14 +1,12 @@
 package com.creative.chatapp4.ui.activities;
 
 import android.app.Activity;
-import android.app.AlertDialog;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
-import android.widget.Toast;
+import android.util.Log;
 
-import com.creative.chatapp4.ApplicationSingleton;
 import com.creative.chatapp4.R;
 import com.creative.chatapp4.core.ChatService;
 import com.quickblox.core.QBEntityCallback;
@@ -19,6 +17,7 @@ import com.quickblox.users.model.QBUser;
 public class SplashActivity extends Activity {
 
 
+    private static final String TAG = "harsh";
     public static String USER_LOGIN;
     public static String USER_PASSWORD;
 
@@ -33,12 +32,12 @@ public class SplashActivity extends Activity {
 
         USER_LOGIN = sharedPreferences.getString("userId", "");
         USER_PASSWORD = sharedPreferences.getString("password", "");
-
-        if (USER_LOGIN.equalsIgnoreCase("") && USER_PASSWORD.equalsIgnoreCase("")) {
+        Log.e(TAG, "onSplash: " + USER_LOGIN + USER_PASSWORD);
+        if (!USER_LOGIN.equalsIgnoreCase("") && USER_PASSWORD.equalsIgnoreCase("")) {
+            Log.e(TAG, "onCreate: andar gayu" );
             startActivity(new Intent(SplashActivity.this, LoginActivity.class));
             finish();
-        }
-        else {
+        } else {
             final QBUser user = new QBUser();
 
             user.setLogin(USER_LOGIN);

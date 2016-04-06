@@ -14,7 +14,12 @@ import com.android.volley.RequestQueue;
 import com.android.volley.toolbox.Volley;
 import com.quickblox.core.QBSettings;
 
+import java.util.HashMap;
+import java.util.Map;
+
 import vc908.stickerfactory.StickersManager;
+import vc908.stickerfactory.User;
+import vc908.stickerfactory.utils.Utils;
 
 
 public class ApplicationSingleton extends Application {
@@ -51,10 +56,10 @@ public class ApplicationSingleton extends Application {
         //
         StickersManager.setLoggingEnabled(true);
         StickersManager.initialize(STICKER_API_KEY, this);
-//        Map<String, String> meta = new HashMap<>();
-//        meta.put(User.KEY_GENDER, User.GENDER_FEMALE);
-//        meta.put(User.KEY_AGE, "33");
-//        StickersManager.setUser(Utils.getDeviceId(this) + "q", meta);
+        Map<String, String> meta = new HashMap<>();
+        meta.put(User.KEY_GENDER, User.GENDER_FEMALE);
+        meta.put(User.KEY_AGE, "33");
+        StickersManager.setUser(Utils.getDeviceId(this) + "q", meta);
 //
 //        StickersManager.setUserSubscribed(false);
 //
