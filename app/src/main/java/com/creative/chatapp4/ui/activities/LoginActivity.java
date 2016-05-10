@@ -36,14 +36,7 @@ public class LoginActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        SharedPreferences sharedPreferences = getSharedPreferences("MyAppData", Context.MODE_PRIVATE);
-        USER_LOGIN = sharedPreferences.getString("userId", "");
-        USER_PASSWORD = sharedPreferences.getString("password", "");
-        Log.e(TAG, "onLogin: " + USER_LOGIN + USER_PASSWORD);
-        if (USER_LOGIN.equalsIgnoreCase("") && USER_PASSWORD.equalsIgnoreCase("")) {
-            startActivity(new Intent(LoginActivity.this, SplashActivity.class));
-            finish();
-        }
+      
         setContentView(R.layout.activity_login);
         getSupportActionBar().hide();
 
@@ -90,10 +83,9 @@ public class LoginActivity extends AppCompatActivity {
                             hideDialog();
                             SharedPreferences sharedPreferences = getSharedPreferences("MyAppData", Context.MODE_PRIVATE);
                             SharedPreferences.Editor editor = sharedPreferences.edit();
-                            editor.clear();
                             editor.putString("userId", email);
                             editor.putString("password", password);
-                            editor.apply();
+                            editor.commit();
                             Intent intent = new Intent(LoginActivity.this, DialogsActivity.class);
                             startActivity(intent);
                             finish();

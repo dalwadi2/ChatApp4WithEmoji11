@@ -1,8 +1,15 @@
 package com.creative.chatapp4.core;
 
+import android.app.NotificationManager;
+import android.app.PendingIntent;
+import android.content.Intent;
+import android.graphics.BitmapFactory;
+import android.support.v4.app.NotificationCompat;
 import android.util.Log;
 import android.widget.Toast;
 
+import com.creative.chatapp4.ApplicationSingleton;
+import com.creative.chatapp4.R;
 import com.creative.chatapp4.ui.activities.ChatActivity;
 import com.quickblox.chat.QBChatService;
 import com.quickblox.chat.QBPrivateChat;
@@ -61,6 +68,7 @@ public class PrivateChatImpl extends QBMessageListenerImpl<QBPrivateChat> implem
         privateChat.removeMessageListener(this);
         privateChatManager.removePrivateChatManagerListener(this);
     }
+
 
     @Override
     public void processMessage(QBPrivateChat chat, QBChatMessage message) {

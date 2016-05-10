@@ -5442,6 +5442,7 @@ containing a value of this type.
     }
     public static final class raw {
         public static final int gtm_analytics=0x7f080000;
+        public static final int notification=0x7f080001;
     }
     public static final class string {
         public static final int abc_action_bar_home_description=0x7f090000;

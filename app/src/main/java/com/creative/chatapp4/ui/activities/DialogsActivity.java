@@ -1,15 +1,19 @@
 package com.creative.chatapp4.ui.activities;
 
 import android.app.AlertDialog;
+import android.app.NotificationManager;
+import android.app.PendingIntent;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.IntentFilter;
 import android.content.SharedPreferences;
+import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
+import android.support.v4.app.NotificationCompat;
 import android.support.v4.content.LocalBroadcastManager;
 import android.util.Log;
 import android.view.Menu;
@@ -41,6 +45,8 @@ public class DialogsActivity extends BaseActivity {
     private ProgressBar progressBar;
 
     private PlayServicesHelper playServicesHelper;
+    public static final int NOTIFICATION_ID = 1;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -93,12 +99,12 @@ public class DialogsActivity extends BaseActivity {
             public void onError(QBResponseException errors) {
                 progressBar.setVisibility(View.GONE);
 
-                AlertDialog.Builder dialog = new AlertDialog.Builder(DialogsActivity.this);
-                dialog.setMessage("get dialogs errors: " + errors).create().show();
+               // AlertDialog.Builder dialog = new AlertDialog.Builder(DialogsActivity.this);
+               // dialog.setMessage("get dialogs errors: " + errors).create().show();
+                Toast.makeText(DialogsActivity.this,"Some error occured, please try again later",Toast.LENGTH_LONG).show();
             }
         });
     }
-
 
     void buildListView(List<QBDialog> dialogs) {
         final DialogsAdapter adapter = new DialogsAdapter(dialogs, DialogsActivity.this);
@@ -160,9 +166,10 @@ public class DialogsActivity extends BaseActivity {
 
                     SharedPreferences sharedPreferences = getSharedPreferences("MyAppData", Context.MODE_PRIVATE);
                     SharedPreferences.Editor editor = sharedPreferences.edit();
-                    editor.clear();
-                    editor.apply();
-                    startActivity(new Intent(DialogsActivity.this, LoginActivity.class));
+                    editor.remove("userId");
+                    editor.remove("password");
+                    editor.commit();
+                    startActivity(new Intent(DialogsActivity.this, SplashActivity.class));
                     finish();
                 }
             });

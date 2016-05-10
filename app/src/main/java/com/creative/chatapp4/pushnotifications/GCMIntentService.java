@@ -3,8 +3,10 @@ package com.creative.chatapp4.pushnotifications;
 import android.app.IntentService;
 import android.app.NotificationManager;
 import android.app.PendingIntent;
+import android.content.ContentResolver;
 import android.content.Context;
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.NotificationCompat;
 import android.support.v4.content.LocalBroadcastManager;
@@ -66,6 +68,9 @@ public class GCMIntentService extends IntentService {
     // This is just one simple example of what you might choose to do with
     // a GCM message.
     private void processNotification(String type, Bundle extras) {
+        final Uri alarmSound = Uri.parse(ContentResolver.SCHEME_ANDROID_RESOURCE
+                + "://" + getApplicationContext().getPackageName() + "/raw/notification");
+
         notificationManager = (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
 
         final String messageValue = extras.getString("message");
@@ -76,8 +81,8 @@ public class GCMIntentService extends IntentService {
         PendingIntent contentIntent = PendingIntent.getActivity(this, 0, intent, 0);
 
         NotificationCompat.Builder mBuilder = new NotificationCompat.Builder(this).setSmallIcon(
-                R.drawable.app_icon).setContentTitle(Consts.GCM_NOTIFICATION).setStyle(
-                new NotificationCompat.BigTextStyle().bigText(messageValue)).setContentText(messageValue);
+                R.mipmap.ic_launcher).setContentTitle(Consts.GCM_NOTIFICATION).setStyle(
+                new NotificationCompat.BigTextStyle().bigText(messageValue)).setContentText(messageValue).setSound(alarmSound);
 
         mBuilder.setContentIntent(contentIntent);
         notificationManager.notify(NOTIFICATION_ID, mBuilder.build());

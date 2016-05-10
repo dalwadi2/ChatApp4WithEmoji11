@@ -33,7 +33,7 @@ public class SplashActivity extends Activity {
         USER_LOGIN = sharedPreferences.getString("userId", "");
         USER_PASSWORD = sharedPreferences.getString("password", "");
         Log.e(TAG, "onSplash: " + USER_LOGIN + USER_PASSWORD);
-        if (!USER_LOGIN.equalsIgnoreCase("") && USER_PASSWORD.equalsIgnoreCase("")) {
+        if (USER_LOGIN.equalsIgnoreCase("") && USER_PASSWORD.equalsIgnoreCase("")) {
             Log.e(TAG, "onCreate: andar gayu" );
             startActivity(new Intent(SplashActivity.this, LoginActivity.class));
             finish();
@@ -56,6 +56,7 @@ public class SplashActivity extends Activity {
 
                 @Override
                 public void onError(QBResponseException errors) {
+                    Log.e(TAG,"ONERROR====sd");
                     startActivity(new Intent(SplashActivity.this, LoginActivity.class));
                     finish();
                 }
