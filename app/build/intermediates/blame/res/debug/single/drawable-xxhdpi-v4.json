@@ -1,79 +1,51 @@
 [
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_on_1_light.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_cast_on_1_light.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_on_2_light.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_cast_on_2_light.png"
-    },
-    {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cast_ic_notification_2.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.3.0\\res\\drawable-xxhdpi\\cast_ic_notification_2.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_ic_backspace.png",
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_ic_backspace.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_1_mono_dark.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_media_route_on_1_mono_dark.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_light.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_cast_light.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_pause.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_media_pause.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_disabled.9.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_name_exit.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_name_exit.png"
-    },
-    {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cast_ic_notification_1.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.3.0\\res\\drawable-xxhdpi\\cast_ic_notification_1.png"
-    },
-    {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_focused.9.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_focused.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_focused.9.png"
-    },
-    {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cast_ic_notification_2.png",
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.3.0\\res\\drawable-xxhdpi\\cast_ic_notification_2.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_full_open_on_phone.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\drawable-xxhdpi\\common_full_open_on_phone.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_list_focused_holo.9.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_ic_reorder.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_ic_reorder.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_ic_clear_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
@@ -84,12 +56,12 @@
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_on_light.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_cast_on_light.png"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_pack_info_message.png",
@@ -100,44 +72,32 @@
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_ic_add.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_keyboard.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_keyboard.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_ic_reorder.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_ic_reorder.png"
-    },
-    {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_pause.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_media_pause.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_dark.png",
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_cast_dark.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_on_light.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_cast_on_light.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_normal.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_light.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_cast_light.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
@@ -148,40 +108,28 @@
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_ic_keyboard.png"
     },
     {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png",
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_normal.9.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_setting_light.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_setting_light.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_list_divider_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_disabled_light.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_cast_disabled_light.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cast_ic_notification_0.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.3.0\\res\\drawable-xxhdpi\\cast_ic_notification_0.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_disabled.9.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_disabled.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_pressed.9.png"
-    },
-    {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_2_mono_dark.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_media_route_on_2_mono_dark.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
@@ -196,64 +144,80 @@
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.3.0\\res\\drawable-xxhdpi\\ic_plusone_tall_off_client.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_play_dark.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_play_dark.png"
-    },
-    {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_015.png"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_play_dark.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_play_dark.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_mono_dark.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_media_route_on_mono_dark.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_insert_emoticon.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_insert_emoticon.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\drawable-xxhdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_2_mono_dark.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_media_route_on_2_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_disabled_mono_dark.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_media_route_disabled_mono_dark.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png",
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_0_mono_dark.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_media_route_on_0_mono_dark.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_on_0_light.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_cast_on_0_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png",
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_disabled.9.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_pause_light.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_pause_light.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_dark.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_cast_dark.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_popup_background_mtrl_mult.9.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_ic_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\mr_ic_audio_vol.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\mr_ic_audio_vol.png"
-    },
-    {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cast_ic_notification_0.png",
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.3.0\\res\\drawable-xxhdpi\\cast_ic_notification_0.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_0_mono_dark.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_media_route_on_0_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cast_ic_notification_on.png",
@@ -264,36 +228,56 @@
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_off_light.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_cast_off_light.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_dialog_subscription_banner.png",
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_dialog_subscription_banner.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_play.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_media_play.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_play.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_media_play.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_ic_delete.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_ic_delete.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_ic_stickers.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_ic_stickers.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_pause_dark.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_pause_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_normal.9.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_keyboard.png",
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_keyboard.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_tab_placeholder_default.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_tab_placeholder_default.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_scrubber_control_off_mtrl_alpha.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.3.0\\res\\drawable-xxhdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\powered_by_google_light.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.3.0\\res\\drawable-xxhdpi\\powered_by_google_light.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
@@ -304,6 +288,10 @@
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
     },
     {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_ic_emoji.png",
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_ic_emoji.png"
     },
@@ -312,28 +300,20 @@
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_ic_recent.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_ic_recent.png"
-    },
-    {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_light_focused.9.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_focused.9.png"
-    },
-    {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_insert_emoticon.png",
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_insert_emoticon.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_list_focused_holo.9.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_disabled.9.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_pressed.9.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_setting_dark.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_setting_dark.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_empty_recent_default.png",
@@ -352,16 +332,36 @@
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_focused.9.png"
     },
     {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_mono_dark.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_media_route_on_mono_dark.png"
+    },
+    {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_setting_dark.png",
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_setting_dark.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_ic_stickers.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_ic_stickers.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_plusone_small_off_client.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.3.0\\res\\drawable-xxhdpi\\ic_plusone_small_off_client.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_ic_stickers.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_ic_stickers.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
@@ -376,6 +376,22 @@
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_plusone_medium_off_client.png",
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.3.0\\res\\drawable-xxhdpi\\ic_plusone_medium_off_client.png"
     },
@@ -384,32 +400,28 @@
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_ic_settings.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_ic_settings.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_pause_light.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_pause_light.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_sticker_placeholder_default.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_sticker_placeholder_default.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\mr_ic_audio_vol.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\mr_ic_audio_vol.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_pressed.9.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_ic_coin.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_ic_coin.png"
-    },
-    {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_disabled.9.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_ic_delete.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_ic_delete.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png",
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_light.9.png"
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_disabled.9.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_setting_light.png",
@@ -420,20 +432,20 @@
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_ic_clear_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_pause_dark.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_pause_dark.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_ic_emoji.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_ic_emoji.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_disabled.9.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
@@ -452,12 +464,20 @@
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_off_mono_dark.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_media_route_off_mono_dark.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_name_exit.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_name_exit.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_on_0_light.png",
@@ -472,8 +492,8 @@
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_tab_placeholder_default.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_tab_placeholder_default.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.3.0\\res\\drawable-xxhdpi\\ic_plusone_medium_off_client.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_disabled_mono_dark.png",
@@ -484,12 +504,500 @@
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.3.0\\res\\drawable-xxhdpi\\powered_by_google_light.png"
     },
     {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_play_light.png",
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_play_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_empty_recent_default.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_empty_recent_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\powered_by_google_dark.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.3.0\\res\\drawable-xxhdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_1_mono_dark.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_media_route_on_1_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_ic_notification.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_on_2_light.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_cast_on_2_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_1_mono_dark.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_media_route_on_1_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cast_ic_notification_1.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.3.0\\res\\drawable-xxhdpi\\cast_ic_notification_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_name_exit.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_name_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cast_ic_notification_1.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.3.0\\res\\drawable-xxhdpi\\cast_ic_notification_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\drawable-xxhdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_on_light.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_cast_on_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_sticker_placeholder_default.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_sticker_placeholder_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_ic_reorder.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_ic_reorder.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_ic_backspace.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_ic_backspace.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_pause.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_media_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_light.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_cast_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_pack_info_message.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_pack_info_message.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_ic_add.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_disabled_light.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_cast_disabled_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_2_mono_dark.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_media_route_on_2_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_ic_coin.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_ic_coin.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\powered_by_google_dark.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.3.0\\res\\drawable-xxhdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_dialog_subscription_banner.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_dialog_subscription_banner.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_off_light.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_cast_off_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.3.0\\res\\drawable-xxhdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cast_ic_notification_on.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.3.0\\res\\drawable-xxhdpi\\cast_ic_notification_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_mono_dark.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_media_route_on_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_ic_notification.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.3.0\\res\\drawable-xxhdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_ic_recent.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_ic_recent.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_on_0_mono_dark.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_media_route_on_0_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_pause_light.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_pause_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\mr_ic_audio_vol.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\mr_ic_audio_vol.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_off_light.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_cast_off_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_disabled_light.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_cast_disabled_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_ic_keyboard.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_ic_keyboard.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_play.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_media_play.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_ic_delete.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_play_dark.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_play_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_ic_recent.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_ic_recent.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.3.0\\res\\drawable-xxhdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_on_2_light.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_cast_on_2_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_off_mono_dark.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_media_route_off_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_ic_settings.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_sticker_placeholder_default.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_sticker_placeholder_default.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_ic_coin.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_ic_coin.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_pause_dark.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_pause_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_ic_settings.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_media_route_off_mono_dark.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_media_route_off_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_tab_placeholder_default.png",
+        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_tab_placeholder_default.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
@@ -500,15 +1008,19 @@
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\powered_by_google_dark.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.3.0\\res\\drawable-xxhdpi\\powered_by_google_dark.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_play_light.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_play_light.png"
     },
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cast_on_1_light.png",
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-xxhdpi\\ic_cast_on_1_light.png"
     },
     {
-        "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sp_ic_notification.png",
-        "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\vc908.stickers\\stickerfactory\\0.10.4\\res\\drawable-xxhdpi\\sp_ic_notification.png"
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xxhdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
     }
 ]

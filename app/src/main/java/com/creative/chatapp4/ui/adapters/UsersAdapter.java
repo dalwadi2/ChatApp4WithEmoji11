@@ -13,6 +13,7 @@ import com.quickblox.users.model.QBUser;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Locale;
 
 /**
  * Created by igorkhomenko on 9/12/14.
@@ -23,9 +24,15 @@ public class UsersAdapter extends BaseAdapter {
     private LayoutInflater inflater;
     private List<QBUser> selected = new ArrayList<QBUser>();
 
+    private ArrayList<QBUser> arraylist;
+
+
     public UsersAdapter(List<QBUser> dataSource, Context ctx) {
         this.dataSource = dataSource;
         this.inflater = LayoutInflater.from(ctx);
+
+        this.arraylist = new ArrayList<QBUser>();
+        this.arraylist.addAll(dataSource);
     }
 
     public List<QBUser> getSelected() {
@@ -75,6 +82,24 @@ public class UsersAdapter extends BaseAdapter {
             holder.add.setChecked(selected.contains(user));
         }
         return convertView;
+    }
+
+    // Filter Class
+    public void filter(String charText) {
+
+        charText = charText.toLowerCase(Locale.getDefault());
+        dataSource.clear();
+        if (charText.length() == 0) {
+            dataSource.addAll(arraylist);
+        } else {
+            for (QBUser wp : selected) {
+                if (wp.getLogin().toLowerCase(Locale.getDefault())
+                        .contains(charText)) {
+                    dataSource.add(wp);
+                }
+            }
+        }
+        notifyDataSetChanged();
     }
 
     private static class ViewHolder {

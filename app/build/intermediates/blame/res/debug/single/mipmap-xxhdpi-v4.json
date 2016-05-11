@@ -1,5 +1,17 @@
 [
     {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_room.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_room.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_action_insert_emoticon.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_action_insert_emoticon.png"
+    },
+    {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
@@ -14,5 +26,9 @@
     {
         "merged": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_room.png",
         "source": "C:\\Users\\Hello\\Desktop\\Android Projects\\ChatApp4WithEmoji11\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_room.png"
+    },
+    {
+        "merged": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_action_keyboard.png",
+        "source": "C:\\Users\\Harsh\\AndroidStudioProjects\\ChatApp4WithEmoji11\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_action_keyboard.png"
     }
 ]
